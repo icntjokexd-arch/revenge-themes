@@ -1,6 +1,6 @@
 {
-  "name": "Midnight Cyan Glass",
-  "description": "Transparent cyan-black midnight aesthetic with green mentions",
+  "name": "Midnight Cyan Full UI",
+  "description": "Full cyan-black midnight aesthetic with transparent UI",
   "authors": [
     {
       "name": "zRxdra"
@@ -12,108 +12,144 @@
   "background": {
     "url": "https://files.catbox.moe/ivnvoo.png",
     "blur": 0,
-    "alpha": 0.75
+    "alpha": 0.84
   },
 
   "semanticColors": {
+    "HOME_BACKGROUND": [
+      "#05070BCC"
+    ],
+
+    "BG_BASE_PRIMARY": [
+      "#05070BCC"
+    ],
+
+    "BG_BASE_SECONDARY": [
+      "#0A1017CC"
+    ],
+
     "BACKGROUND_PRIMARY": [
-      "#05070B"
+      "#05070BCC"
     ],
 
     "BACKGROUND_SECONDARY": [
-      "#0A1017"
+      "#0A1017CC"
     ],
 
     "BACKGROUND_TERTIARY": [
-      "#121A24"
+      "#101822DD"
+    ],
+
+    "BACKGROUND_SURFACE_HIGH": [
+      "#111821CC"
+    ],
+
+    "BACKGROUND_SURFACE_HIGHER": [
+      "#17222ECC"
+    ],
+
+    "BACKGROUND_SURFACE_HIGHEST": [
+      "#1C2835DD"
+    ],
+
+    "BACKGROUND_FLOATING": [
+      "#0E1822DD"
     ],
 
     "CARD_PRIMARY_BG": [
-      "#16212BCC"
+      "#111821AA"
     ],
 
     "CARD_SECONDARY_BG": [
-      "#1B2C38CC"
+      "#17222ECC"
     ],
 
     "MODAL_BACKGROUND": [
-      "#101821DD"
+      "#0D141CCC"
     ],
 
     "MODAL_FOOTER_BACKGROUND": [
-      "#18242FDD"
+      "#121B24CC"
     ],
 
-    "CHANNELTEXTAREA_BACKGROUND": [
-      "#08101866"
+    "CHAT_BACKGROUND": [
+      "#05070B99"
     ],
 
     "CHAT_INPUT_CONTAINER_BACKGROUND": [
-      "#08101866"
+      "#0D172288"
+    ],
+
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#0D172288"
     ],
 
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#08101866"
+      "#0D172288"
+    ],
+
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#8AEFFF08"
     ],
 
     "BACKGROUND_ACCENT": [
-      "#8AEFFF10"
+      "#7FE7FF08"
     ],
 
     "BACKGROUND_MODIFIER_HOVER": [
-      "#8AEFFF12"
+      "#8AEFFF08"
     ],
 
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#8AEFFF1C"
+      "#8AEFFF10"
     ],
 
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#8AEFFF28"
+      "#8AEFFF14"
     ],
 
     "BACKGROUND_MENTIONED": [
-      "#00FF6618"
+      "#00FF6614"
     ],
 
     "BACKGROUND_MENTIONED_HOVER": [
-      "#00FF6628"
+      "#00FF6622"
     ],
 
     "TEXT_NORMAL": [
-      "#F4FFFF"
+      "#CFE8F2"
     ],
 
     "TEXT_MUTED": [
-      "#98B7C7"
+      "#7D97A8"
     ],
 
     "HEADER_PRIMARY": [
-      "#FFFFFF"
+      "#D7F4FF"
     ],
 
     "HEADER_SECONDARY": [
-      "#CBEFFF"
+      "#9FC7D8"
     ],
 
     "TEXT_LINK": [
-      "#8AEFFF"
+      "#7FE7FF"
     ],
 
     "INTERACTIVE_NORMAL": [
-      "#8AEFFF"
+      "#7FE7FF"
     ],
 
     "INTERACTIVE_HOVER": [
-      "#D8FBFF"
+      "#AEEFFF"
     ],
 
     "INTERACTIVE_ACTIVE": [
-      "#FFFFFF"
+      "#CFF8FF"
     ],
 
     "SCROLLBAR_THIN_THUMB": [
-      "#63E8FF"
+      "#5FDFFF88"
     ],
 
     "SCROLLBAR_THIN_TRACK": [
@@ -121,7 +157,7 @@
     ],
 
     "CONTROL_BRAND_FOREGROUND": [
-      "#8AEFFF"
+      "#7FE7FF"
     ],
 
     "CONTROL_BRAND_BACKGROUND": [
@@ -129,24 +165,22 @@
     ],
 
     "CONTROL_BRAND_BACKGROUND_HOVER": [
-      "#A8F5FF"
+      "#8DEEFF"
     ]
   },
 
   "rawColors": {
-    "PRIMARY_500": "#8AEFFF",
+    "PRIMARY_500": "#7FE7FF",
     "PRIMARY_600": "#63E8FF",
-    "PRIMARY_700": "#2DB4C9",
+    "PRIMARY_700": "#2AA9C2",
 
-    "BRAND_NEW": "#8AEFFF",
+    "BRAND_NEW": "#7FE7FF",
 
     "BLACK": "#05070B",
     "BLACK_ALT": "#0A1017",
 
-    "WHITE": "#FFFFFF",
-
-    "MENTION_FOREGROUND": "#B7FFC8",
-    "MENTION_BACKGROUND": "#00FF6622",
+    "MENTION_FOREGROUND": "#B8FFCB",
+    "MENTION_BACKGROUND": "#00FF6618",
     "MENTION_BAR": "#00FF66"
   }
 }
