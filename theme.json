@@ -1,6 +1,6 @@
 {
-  "name": "Frozen Bubble",
-  "description": "Soft cyan-blue floating UI matching the background",
+  "name": "Void Bubble",
+  "description": "Electric blue floating bubble aesthetic",
   "authors": [
     {
       "name": "zRxdra"
@@ -12,60 +12,76 @@
   "background": {
     "url": "https://i.imgur.com/MmzvkSl.jpeg",
     "blur": 0,
-    "alpha": 0.96
+    "alpha": 0.94
   },
 
   "semanticColors": {
     "BACKGROUND_PRIMARY": [
-      "#13202B"
+      "#070B17"
     ],
 
     "BACKGROUND_SECONDARY": [
-      "#1A2D3D"
+      "#10182B"
     ],
 
     "BACKGROUND_TERTIARY": [
-      "#233C52"
+      "#172642"
     ],
 
     "BACKGROUND_ACCENT": [
-      "#6BCBFF22"
+      "#39D8FF22"
     ],
 
     "BACKGROUND_MODIFIER_HOVER": [
-      "#8AD8FF1A"
+      "#6EE7FF14"
     ],
 
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#8AD8FF33"
+      "#6EE7FF22"
     ],
 
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#8AD8FF55"
+      "#6EE7FF33"
     ],
 
     "BACKGROUND_MENTIONED": [
-      "#6BCBFF22"
+      "#39D8FF22"
     ],
 
     "BACKGROUND_MENTIONED_HOVER": [
-      "#6BCBFF44"
+      "#39D8FF44"
     ],
 
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#35506B"
+      "#28436B"
     ],
 
     "CHAT_INPUT_CONTAINER_BACKGROUND": [
-      "#35506B"
+      "#28436B"
+    ],
+
+    "CARD_PRIMARY_BG": [
+      "#1A2C4A"
+    ],
+
+    "CARD_SECONDARY_BG": [
+      "#22385C"
+    ],
+
+    "MODAL_BACKGROUND": [
+      "#14233D"
+    ],
+
+    "MODAL_FOOTER_BACKGROUND": [
+      "#1B2F4D"
     ],
 
     "TEXT_NORMAL": [
-      "#F3F9FF"
+      "#F4FAFF"
     ],
 
     "TEXT_MUTED": [
-      "#AFC9DD"
+      "#A8C8E8"
     ],
 
     "HEADER_PRIMARY": [
@@ -73,19 +89,19 @@
     ],
 
     "HEADER_SECONDARY": [
-      "#C8E3F7"
+      "#CBE6FF"
     ],
 
     "TEXT_LINK": [
-      "#8ED8FF"
+      "#73E4FF"
     ],
 
     "INTERACTIVE_NORMAL": [
-      "#8ED8FF"
+      "#73E4FF"
     ],
 
     "INTERACTIVE_HOVER": [
-      "#D6F3FF"
+      "#CFF7FF"
     ],
 
     "INTERACTIVE_ACTIVE": [
@@ -93,27 +109,27 @@
     ],
 
     "SCROLLBAR_THIN_THUMB": [
-      "#79CCFF"
+      "#39D8FF"
     ],
 
     "CONTROL_BRAND_FOREGROUND": [
-      "#8ED8FF"
+      "#73E4FF"
     ],
 
     "CONTROL_BRAND_BACKGROUND": [
-      "#5CB8F0"
+      "#39D8FF"
     ]
   },
 
   "rawColors": {
-    "PRIMARY_500": "#8ED8FF",
-    "PRIMARY_600": "#6BCBFF",
-    "PRIMARY_700": "#459ED1",
+    "PRIMARY_500": "#73E4FF",
+    "PRIMARY_600": "#39D8FF",
+    "PRIMARY_700": "#229FC2",
 
-    "BRAND_NEW": "#8ED8FF",
+    "BRAND_NEW": "#73E4FF",
 
-    "BLACK": "#13202B",
-    "BLACK_ALT": "#1A2D3D",
+    "BLACK": "#070B17",
+    "BLACK_ALT": "#10182B",
 
     "WHITE": "#FFFFFF"
   }
