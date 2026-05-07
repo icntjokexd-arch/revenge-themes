@@ -1,6 +1,6 @@
 {
-  "name": "Cyan Forest Revenge X",
-  "description": "AMOLED cyan neon floating-message edition for Revenge",
+  "name": "Cyan Forest",
+  "description": "AMOLED cyan neon floating theme",
   "authors": [
     {
       "name": "zRxdra"
@@ -11,163 +11,95 @@
   "background": {
     "url": "https://i.imgur.com/MmzvkSl.jpeg",
     "blur": 0,
-    "alpha": 0.72
+    "alpha": 0.75
   },
 
   "semanticColors": {
-    "HEADER_PRIMARY": {
-      "raw": "#F2FFFF"
-    },
-
-    "HEADER_SECONDARY": {
-      "raw": "#8AE8E2"
-    },
-
-    "TEXT_NORMAL": {
-      "raw": "#F4FFFF"
-    },
-
-    "TEXT_MUTED": {
-      "raw": "#7FD7D0"
-    },
-
-    "TEXT_LINK": {
-      "raw": "#00FFCC"
-    },
-
-    "TEXT_PRIMARY": {
-      "raw": "#F4FFFF"
-    },
-
-    "TEXT_SECONDARY": {
-      "raw": "#7FD7D0"
-    },
-
-    "INTERACTIVE_NORMAL": {
-      "raw": "#91FFF2"
-    },
-
-    "INTERACTIVE_HOVER": {
-      "raw": "#00FFE1"
-    },
-
-    "INTERACTIVE_ACTIVE": {
-      "raw": "#B6FFF8"
-    },
-
-    "INTERACTIVE_MUTED": {
-      "raw": "#58C7BE"
-    },
-
     "BACKGROUND_PRIMARY": {
       "raw": "#000000"
     },
 
     "BACKGROUND_SECONDARY": {
-      "raw": "#041114"
+      "raw": "#071417"
     },
 
     "BACKGROUND_TERTIARY": {
-      "raw": "#06181B"
-    },
-
-    "BACKGROUND_FLOATING": {
-      "raw": "#071C20"
+      "raw": "#0B1E22"
     },
 
     "BACKGROUND_ACCENT": {
-      "raw": "#00FFBF10"
+      "raw": "#00FFD51A"
     },
 
-    "BACKGROUND_MENTIONED": {
-      "raw": "#00FFBF14"
+    "TEXT_NORMAL": {
+      "raw": "#F2FFFF"
     },
 
-    "BACKGROUND_MENTIONED_HOVER": {
-      "raw": "#00FFBF22"
+    "TEXT_MUTED": {
+      "raw": "#7CE1DA"
     },
 
-    "BACKGROUND_MODIFIER_ACCENT": {
-      "raw": "#00FFE10D"
+    "HEADER_PRIMARY": {
+      "raw": "#FFFFFF"
     },
 
-    "BACKGROUND_MODIFIER_ACTIVE": {
-      "raw": "#00FFE11C"
+    "HEADER_SECONDARY": {
+      "raw": "#8CF5EE"
     },
 
-    "BACKGROUND_MODIFIER_HOVER": {
-      "raw": "#00FFBF14"
+    "INTERACTIVE_NORMAL": {
+      "raw": "#00FFD5"
     },
 
-    "BACKGROUND_MODIFIER_SELECTED": {
-      "raw": "#00FFBF2B"
+    "INTERACTIVE_HOVER": {
+      "raw": "#00FFF2"
+    },
+
+    "INTERACTIVE_ACTIVE": {
+      "raw": "#B8FFF9"
     },
 
     "CHANNELTEXTAREA_BACKGROUND": {
-      "raw": "#07191D"
+      "raw": "#08181B"
     },
 
     "CHAT_INPUT_CONTAINER_BACKGROUND": {
-      "raw": "#07191D"
+      "raw": "#08181B"
     },
 
-    "REDESIGN_CHAT_INPUT_BACKGROUND": {
-      "raw": "#07191D"
+    "BACKGROUND_MODIFIER_HOVER": {
+      "raw": "#00FFD514"
     },
 
-    "CARD_PRIMARY_BG": {
-      "raw": "#081D21"
+    "BACKGROUND_MODIFIER_ACTIVE": {
+      "raw": "#00FFD522"
     },
 
-    "CARD_SECONDARY_BG": {
-      "raw": "#0A2327"
-    },
-
-    "MODAL_BACKGROUND": {
-      "raw": "#081D21"
-    },
-
-    "MODAL_FOOTER_BACKGROUND": {
-      "raw": "#0A2327"
+    "BACKGROUND_MODIFIER_SELECTED": {
+      "raw": "#00FFD533"
     },
 
     "SCROLLBAR_THIN_THUMB": {
-      "raw": "#00FFE1"
-    },
-
-    "SCROLLBAR_THIN_TRACK": {
-      "raw": "#00000000"
-    },
-
-    "CHANNELTEXTAREA_PLACEHOLDER": {
-      "raw": "#69D9D0"
+      "raw": "#00FFD5"
     },
 
     "CONTROL_BRAND_FOREGROUND": {
-      "raw": "#00FFBF"
+      "raw": "#00FFD5"
     },
 
     "CONTROL_BRAND_BACKGROUND": {
-      "raw": "#00FFBF"
-    },
-
-    "CONTROL_BRAND_BACKGROUND_HOVER": {
-      "raw": "#00FFE1"
+      "raw": "#00FFD5"
     }
   },
 
   "rawColors": {
-    "PRIMARY_500": "#00FFE1",
-    "PRIMARY_600": "#00D6BF",
-    "PRIMARY_700": "#00A38F",
+    "PRIMARY_500": "#00FFD5",
+    "PRIMARY_600": "#00D6B3",
+    "PRIMARY_700": "#00A38A",
 
-    "BRAND_NEW": "#00FFCC",
+    "BRAND_NEW": "#00FFD5",
 
     "BLACK": "#000000",
-    "BLACK_ALT": "#050505",
-
-    "MENTION_FOREGROUND": "#C9FFF9",
-    "MENTION_BACKGROUND": "#00FFBF22",
-    "MENTION_BAR": "#00FFBF"
+    "BLACK_ALT": "#050505"
   }
 }
