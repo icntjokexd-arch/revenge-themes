@@ -11,7 +11,7 @@
   },
 
   "semanticColors": {
-    "HEADER_PRIMARY": "#eaffff",
+    "HEADER_PRIMARY": "##2E5BFF",
     "HEADER_SECONDARY": "#8ceaf2",
 
     "TEXT_NORMAL": "#2E5BFF",
