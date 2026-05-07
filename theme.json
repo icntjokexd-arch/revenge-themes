@@ -1,6 +1,6 @@
 {
-  "name": "Midnight Cyan Full UI",
-  "description": "Full cyan-black midnight aesthetic with transparent UI",
+  "name": "Midnight Cyan Complete",
+  "description": "Full cyan-black transparent Discord mobile aesthetic",
   "authors": [
     {
       "name": "zRxdra"
@@ -10,7 +10,7 @@
   "spec": 2,
 
   "background": {
-    "url": "https://files.catbox.moe/ivnvoo.png",
+    "url": "https://raw.githubusercontent.com/icntjokexd-arch/revenge-themes/main/bg.png",
     "blur": 0,
     "alpha": 0.84
   },
@@ -36,24 +36,60 @@
       "#0A1017CC"
     ],
 
+    "BACKGROUND_SECONDARY_ALT": [
+      "#111821CC"
+    ],
+
     "BACKGROUND_TERTIARY": [
       "#101822DD"
     ],
 
-    "BACKGROUND_SURFACE_HIGH": [
+    "BACKGROUND_BASE_LOW": [
+      "#05070BCC"
+    ],
+
+    "BACKGROUND_BASE_LOWER": [
+      "#05070BCC"
+    ],
+
+    "BACKGROUND_BASE_LOWEST": [
+      "#000000DD"
+    ],
+
+    "BACKGROUND_SURFACE_LOW": [
+      "#0B1118CC"
+    ],
+
+    "BACKGROUND_SURFACE_NORMAL": [
       "#111821CC"
     ],
 
-    "BACKGROUND_SURFACE_HIGHER": [
+    "BACKGROUND_SURFACE_HIGH": [
       "#17222ECC"
     ],
 
-    "BACKGROUND_SURFACE_HIGHEST": [
+    "BACKGROUND_SURFACE_HIGHER": [
       "#1C2835DD"
+    ],
+
+    "BACKGROUND_SURFACE_HIGHEST": [
+      "#223140DD"
     ],
 
     "BACKGROUND_FLOATING": [
       "#0E1822DD"
+    ],
+
+    "BACKGROUND_NESTED_FLOATING": [
+      "#0E1822EE"
+    ],
+
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#05070BCC"
+    ],
+
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#0A1017CC"
     ],
 
     "CARD_PRIMARY_BG": [
