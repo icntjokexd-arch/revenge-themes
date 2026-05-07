@@ -1,6 +1,6 @@
 {
-  "name": "Void Bubble Ultimate",
-  "description": "Soft cyan floating bubble aesthetic",
+  "name": "Thunder Cyan",
+  "description": "Dark cyan storm bubble aesthetic",
   "authors": [
     {
       "name": "zRxdra"
@@ -10,78 +10,78 @@
   "spec": 2,
 
   "background": {
-    "url": "https://i.imgur.com/3AKD7IH.jpeg",
+    "url": "https://i.imgur.com/Y7sfCpT.png",
     "blur": 0,
-    "alpha": 0.94
+    "alpha": 0.95
   },
 
   "semanticColors": {
     "BACKGROUND_PRIMARY": [
-      "#08111B"
+      "#040608"
     ],
 
     "BACKGROUND_SECONDARY": [
-      "#102030"
+      "#081018"
     ],
 
     "BACKGROUND_TERTIARY": [
-      "#18354A"
-    ],
-
-    "BACKGROUND_ACCENT": [
-      "#00FFF01A"
-    ],
-
-    "BACKGROUND_MODIFIER_HOVER": [
-      "#00FFF022"
-    ],
-
-    "BACKGROUND_MODIFIER_ACTIVE": [
-      "#00FFF033"
-    ],
-
-    "BACKGROUND_MODIFIER_SELECTED": [
-      "#00FFF055"
-    ],
-
-    "BACKGROUND_MENTIONED": [
-      "#00FFF022"
-    ],
-
-    "BACKGROUND_MENTIONED_HOVER": [
-      "#00FFF044"
-    ],
-
-    "CHANNELTEXTAREA_BACKGROUND": [
-      "#163B47"
-    ],
-
-    "CHAT_INPUT_CONTAINER_BACKGROUND": [
-      "#163B47"
+      "#0E1C26"
     ],
 
     "CARD_PRIMARY_BG": [
-      "#102430"
+      "#101820"
     ],
 
     "CARD_SECONDARY_BG": [
-      "#163240"
+      "#13242F"
     ],
 
     "MODAL_BACKGROUND": [
-      "#0D1823"
+      "#091118"
     ],
 
     "MODAL_FOOTER_BACKGROUND": [
-      "#122B38"
+      "#0F1A22"
+    ],
+
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#163844"
+    ],
+
+    "CHAT_INPUT_CONTAINER_BACKGROUND": [
+      "#163844"
+    ],
+
+    "BACKGROUND_ACCENT": [
+      "#00F0FF18"
+    ],
+
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#00F0FF22"
+    ],
+
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#00F0FF33"
+    ],
+
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#00F0FF44"
+    ],
+
+    "BACKGROUND_MENTIONED": [
+      "#00F0FF22"
+    ],
+
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#00F0FF44"
     ],
 
     "TEXT_NORMAL": [
-      "#F5FDFF"
+      "#F2FFFF"
     ],
 
     "TEXT_MUTED": [
-      "#A7DDE8"
+      "#9FD0D8"
     ],
 
     "HEADER_PRIMARY": [
@@ -89,19 +89,19 @@
     ],
 
     "HEADER_SECONDARY": [
-      "#C9F3FF"
+      "#BDF7FF"
     ],
 
     "TEXT_LINK": [
-      "#73F0FF"
+      "#66F2FF"
     ],
 
     "INTERACTIVE_NORMAL": [
-      "#73F0FF"
+      "#66F2FF"
     ],
 
     "INTERACTIVE_HOVER": [
-      "#D6FCFF"
+      "#D9FDFF"
     ],
 
     "INTERACTIVE_ACTIVE": [
@@ -109,32 +109,33 @@
     ],
 
     "SCROLLBAR_THIN_THUMB": [
-      "#39E0FF"
+      "#00E5FF"
     ],
 
     "CONTROL_BRAND_FOREGROUND": [
-      "#73F0FF"
+      "#66F2FF"
     ],
 
     "CONTROL_BRAND_BACKGROUND": [
-      "#39E0FF"
+      "#00D9FF"
     ]
   },
 
   "rawColors": {
-    "PRIMARY_500": "#73F0FF",
-    "PRIMARY_600": "#39E0FF",
-    "PRIMARY_700": "#1FA8C4",
+    "PRIMARY_500": "#66F2FF",
+    "PRIMARY_600": "#00D9FF",
+    "PRIMARY_700": "#009FB8",
 
-    "BRAND_NEW": "#73F0FF",
+    "BRAND_NEW": "#66F2FF",
 
-    "BLACK": "#08111B",
-    "BLACK_ALT": "#102030",
+    "BLACK": "#040608",
+    "BLACK_ALT": "#081018",
 
     "WHITE": "#FFFFFF",
 
-    "MENTION_FOREGROUND": "#D6FCFF",
-    "MENTION_BACKGROUND": "#00FFF022",
-    "MENTION_BAR": "#39E0FF"
+    "MENTION_FOREGROUND": "#E6FFFF",
+    "MENTION_BACKGROUND": "#00F0FF22",
+    "MENTION_BAR": "#00E5FF"
   }
 }
+```0
