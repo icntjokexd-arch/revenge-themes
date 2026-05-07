@@ -1,6 +1,6 @@
 {
-  "name": "Cyan Forest Ultimate FINAL",
-  "description": "AMOLED black + cyan neon message glow edition",
+  "name": "Cyan Forest Revenge X",
+  "description": "AMOLED cyan neon floating-message edition for Revenge",
   "authors": [
     {
       "name": "zRxdra"
@@ -11,150 +11,163 @@
   "background": {
     "url": "https://i.imgur.com/MmzvkSl.jpeg",
     "blur": 0,
-    "alpha": 0.70
+    "alpha": 0.72
   },
 
   "semanticColors": {
     "HEADER_PRIMARY": {
-      "raw": "#eaffff"
+      "raw": "#F2FFFF"
     },
+
     "HEADER_SECONDARY": {
-      "raw": "#7de3eb"
+      "raw": "#8AE8E2"
     },
 
     "TEXT_NORMAL": {
-      "raw": "#ecffff"
+      "raw": "#F4FFFF"
     },
+
     "TEXT_MUTED": {
-      "raw": "#70cad1"
+      "raw": "#7FD7D0"
     },
+
     "TEXT_LINK": {
-      "raw": "#00eaff"
+      "raw": "#00FFCC"
     },
+
     "TEXT_PRIMARY": {
-      "raw": "#ecffff"
+      "raw": "#F4FFFF"
     },
+
     "TEXT_SECONDARY": {
-      "raw": "#70cad1"
+      "raw": "#7FD7D0"
     },
 
     "INTERACTIVE_NORMAL": {
-      "raw": "#88f3ff"
+      "raw": "#91FFF2"
     },
+
     "INTERACTIVE_HOVER": {
-      "raw": "#00ffff"
+      "raw": "#00FFE1"
     },
+
     "INTERACTIVE_ACTIVE": {
-      "raw": "#c4ffff"
+      "raw": "#B6FFF8"
     },
+
     "INTERACTIVE_MUTED": {
-      "raw": "#4bb8c2"
+      "raw": "#58C7BE"
     },
 
     "BACKGROUND_PRIMARY": {
       "raw": "#000000"
     },
+
     "BACKGROUND_SECONDARY": {
-      "raw": "#04090b"
+      "raw": "#041114"
     },
+
     "BACKGROUND_TERTIARY": {
-      "raw": "#020506"
+      "raw": "#06181B"
     },
+
     "BACKGROUND_FLOATING": {
-      "raw": "#041012"
+      "raw": "#071C20"
     },
 
     "BACKGROUND_ACCENT": {
-      "raw": "#00f0ff14"
+      "raw": "#00FFBF10"
     },
 
     "BACKGROUND_MENTIONED": {
-      "raw": "#00f0ff1f"
+      "raw": "#00FFBF14"
     },
+
     "BACKGROUND_MENTIONED_HOVER": {
-      "raw": "#00f0ff30"
+      "raw": "#00FFBF22"
     },
 
     "BACKGROUND_MODIFIER_ACCENT": {
-      "raw": "#00f0ff14"
+      "raw": "#00FFE10D"
     },
+
     "BACKGROUND_MODIFIER_ACTIVE": {
-      "raw": "#00f0ff26"
+      "raw": "#00FFE11C"
     },
+
     "BACKGROUND_MODIFIER_HOVER": {
-      "raw": "#00f0ff1f"
+      "raw": "#00FFBF14"
     },
+
     "BACKGROUND_MODIFIER_SELECTED": {
-      "raw": "#00f0ff40"
+      "raw": "#00FFBF2B"
     },
 
     "CHANNELTEXTAREA_BACKGROUND": {
-      "raw": "#021214"
+      "raw": "#07191D"
     },
+
     "CHAT_INPUT_CONTAINER_BACKGROUND": {
-      "raw": "#021214"
+      "raw": "#07191D"
     },
+
     "REDESIGN_CHAT_INPUT_BACKGROUND": {
-      "raw": "#021214"
+      "raw": "#07191D"
     },
 
     "CARD_PRIMARY_BG": {
-      "raw": "#020607"
+      "raw": "#081D21"
     },
+
     "CARD_SECONDARY_BG": {
-      "raw": "#04090b"
+      "raw": "#0A2327"
     },
 
     "MODAL_BACKGROUND": {
-      "raw": "#020607"
+      "raw": "#081D21"
     },
+
     "MODAL_FOOTER_BACKGROUND": {
-      "raw": "#04090b"
+      "raw": "#0A2327"
     },
 
     "SCROLLBAR_THIN_THUMB": {
-      "raw": "#00f0ff"
+      "raw": "#00FFE1"
     },
+
     "SCROLLBAR_THIN_TRACK": {
       "raw": "#00000000"
     },
 
     "CHANNELTEXTAREA_PLACEHOLDER": {
-      "raw": "#56c2cc"
+      "raw": "#69D9D0"
     },
 
     "CONTROL_BRAND_FOREGROUND": {
-      "raw": "#00f0ff"
+      "raw": "#00FFBF"
     },
+
     "CONTROL_BRAND_BACKGROUND": {
-      "raw": "#00f0ff"
+      "raw": "#00FFBF"
     },
+
     "CONTROL_BRAND_BACKGROUND_HOVER": {
-      "raw": "#00ffff"
+      "raw": "#00FFE1"
     }
   },
 
   "rawColors": {
-    "PRIMARY_500": "#00f0ff",
-    "PRIMARY_600": "#00cad6",
-    "PRIMARY_700": "#0097a3",
+    "PRIMARY_500": "#00FFE1",
+    "PRIMARY_600": "#00D6BF",
+    "PRIMARY_700": "#00A38F",
 
-    "BRAND_NEW": "#00f0ff",
+    "BRAND_NEW": "#00FFCC",
 
     "BLACK": "#000000",
     "BLACK_ALT": "#050505",
 
-    "MENTION_FOREGROUND": "#bfffff",
-    "MENTION_BACKGROUND": "#00f0ff26",
-    "MENTION_BAR": "#00f0ff"
-  },
-
-  "messageStyles": {
-    "bubbleBackground": "#021214cc",
-    "bubbleHover": "#062125",
-    "bubbleGlow": "#00f0ff22",
-    "bubbleBorder": "#00f0ff33",
-    "replyHighlight": "#00f0ff55",
-    "messageSeparation": "#00f0ff12"
+    "MENTION_FOREGROUND": "#C9FFF9",
+    "MENTION_BACKGROUND": "#00FFBF22",
+    "MENTION_BAR": "#00FFBF"
   }
 }
