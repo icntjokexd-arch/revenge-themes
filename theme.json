@@ -1,0 +1,157 @@
+{
+  "name": "Neon Abyss Bubble",
+  "description": "AMOLED cyan bubble-style theme for Revenge",
+  "authors": [
+    {
+      "name": "zRxdra"
+    }
+  ],
+  "spec": 2,
+
+  "background": {
+    "url": "https://i.imgur.com/MmzvkSl.jpeg",
+    "blur": 0,
+    "alpha": 0.84
+  },
+
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": {
+      "raw": "#000000"
+    },
+
+    "BACKGROUND_SECONDARY": {
+      "raw": "#0D2328"
+    },
+
+    "BACKGROUND_TERTIARY": {
+      "raw": "#13343B"
+    },
+
+    "BACKGROUND_FLOATING": {
+      "raw": "#102B31"
+    },
+
+    "BACKGROUND_ACCENT": {
+      "raw": "#00FFF033"
+    },
+
+    "TEXT_NORMAL": {
+      "raw": "#F2FFFF"
+    },
+
+    "TEXT_MUTED": {
+      "raw": "#88E7DF"
+    },
+
+    "HEADER_PRIMARY": {
+      "raw": "#FFFFFF"
+    },
+
+    "HEADER_SECONDARY": {
+      "raw": "#9EFFF6"
+    },
+
+    "TEXT_LINK": {
+      "raw": "#00FFF0"
+    },
+
+    "INTERACTIVE_NORMAL": {
+      "raw": "#00FFE1"
+    },
+
+    "INTERACTIVE_HOVER": {
+      "raw": "#66FFF7"
+    },
+
+    "INTERACTIVE_ACTIVE": {
+      "raw": "#D2FFFF"
+    },
+
+    "CHANNELTEXTAREA_BACKGROUND": {
+      "raw": "#173E46"
+    },
+
+    "CHAT_INPUT_CONTAINER_BACKGROUND": {
+      "raw": "#173E46"
+    },
+
+    "REDESIGN_CHAT_INPUT_BACKGROUND": {
+      "raw": "#173E46"
+    },
+
+    "BACKGROUND_MODIFIER_HOVER": {
+      "raw": "#00FFF022"
+    },
+
+    "BACKGROUND_MODIFIER_ACTIVE": {
+      "raw": "#00FFF044"
+    },
+
+    "BACKGROUND_MODIFIER_SELECTED": {
+      "raw": "#00FFF066"
+    },
+
+    "BACKGROUND_MENTIONED": {
+      "raw": "#00FFF022"
+    },
+
+    "BACKGROUND_MENTIONED_HOVER": {
+      "raw": "#00FFF044"
+    },
+
+    "CARD_PRIMARY_BG": {
+      "raw": "#112E34"
+    },
+
+    "CARD_SECONDARY_BG": {
+      "raw": "#163A42"
+    },
+
+    "MODAL_BACKGROUND": {
+      "raw": "#112E34"
+    },
+
+    "MODAL_FOOTER_BACKGROUND": {
+      "raw": "#163A42"
+    },
+
+    "SCROLLBAR_THIN_THUMB": {
+      "raw": "#00FFF0"
+    },
+
+    "SCROLLBAR_THIN_TRACK": {
+      "raw": "#00000000"
+    },
+
+    "CONTROL_BRAND_FOREGROUND": {
+      "raw": "#00FFF0"
+    },
+
+    "CONTROL_BRAND_BACKGROUND": {
+      "raw": "#00FFF0"
+    },
+
+    "CONTROL_BRAND_BACKGROUND_HOVER": {
+      "raw": "#66FFF7"
+    },
+
+    "CHANNELTEXTAREA_PLACEHOLDER": {
+      "raw": "#9FFAF2"
+    }
+  },
+
+  "rawColors": {
+    "PRIMARY_500": "#00FFF0",
+    "PRIMARY_600": "#00D4C7",
+    "PRIMARY_700": "#009F96",
+
+    "BRAND_NEW": "#00FFF0",
+
+    "BLACK": "#000000",
+    "BLACK_ALT": "#0B0B0B",
+
+    "MENTION_FOREGROUND": "#D6FFFF",
+    "MENTION_BACKGROUND": "#00FFF033",
+    "MENTION_BAR": "#00FFF0"
+  }
+}
