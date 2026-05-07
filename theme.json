@@ -1,6 +1,6 @@
 {
-  "name": "Cyan Galaxy",
-  "description": "Soft cyan-black galaxy bubbles",
+  "name": "Midnight Cyan Glass",
+  "description": "Transparent cyan-black midnight aesthetic with green mentions",
   "authors": [
     {
       "name": "zRxdra"
@@ -12,80 +12,80 @@
   "background": {
     "url": "https://files.catbox.moe/ivnvoo.png",
     "blur": 0,
-    "alpha": 0.92
+    "alpha": 0.75
   },
 
   "semanticColors": {
     "BACKGROUND_PRIMARY": [
-      "#06080D"
+      "#05070B"
     ],
 
     "BACKGROUND_SECONDARY": [
-      "#0A1118"
+      "#0A1017"
     ],
 
     "BACKGROUND_TERTIARY": [
-      "#111A24"
+      "#121A24"
     ],
 
     "CARD_PRIMARY_BG": [
-      "#121C27"
+      "#16212BCC"
     ],
 
     "CARD_SECONDARY_BG": [
-      "#182634"
+      "#1B2C38CC"
     ],
 
     "MODAL_BACKGROUND": [
-      "#101720"
+      "#101821DD"
     ],
 
     "MODAL_FOOTER_BACKGROUND": [
-      "#16212D"
+      "#18242FDD"
     ],
 
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#20394B"
+      "#08101866"
     ],
 
     "CHAT_INPUT_CONTAINER_BACKGROUND": [
-      "#20394B"
+      "#08101866"
     ],
 
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#20394B"
+      "#08101866"
     ],
 
     "BACKGROUND_ACCENT": [
-      "#00E5FF14"
+      "#8AEFFF10"
     ],
 
     "BACKGROUND_MODIFIER_HOVER": [
-      "#00E5FF18"
+      "#8AEFFF12"
     ],
 
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#00E5FF22"
+      "#8AEFFF1C"
     ],
 
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#00E5FF30"
+      "#8AEFFF28"
     ],
 
     "BACKGROUND_MENTIONED": [
-      "#00E5FF20"
+      "#00FF6618"
     ],
 
     "BACKGROUND_MENTIONED_HOVER": [
-      "#00E5FF35"
+      "#00FF6628"
     ],
 
     "TEXT_NORMAL": [
-      "#F2FFFF"
+      "#F4FFFF"
     ],
 
     "TEXT_MUTED": [
-      "#98B8C7"
+      "#98B7C7"
     ],
 
     "HEADER_PRIMARY": [
@@ -97,15 +97,15 @@
     ],
 
     "TEXT_LINK": [
-      "#66EFFF"
+      "#8AEFFF"
     ],
 
     "INTERACTIVE_NORMAL": [
-      "#66EFFF"
+      "#8AEFFF"
     ],
 
     "INTERACTIVE_HOVER": [
-      "#CFFFFF"
+      "#D8FBFF"
     ],
 
     "INTERACTIVE_ACTIVE": [
@@ -113,7 +113,7 @@
     ],
 
     "SCROLLBAR_THIN_THUMB": [
-      "#00DFFF"
+      "#63E8FF"
     ],
 
     "SCROLLBAR_THIN_TRACK": [
@@ -121,32 +121,32 @@
     ],
 
     "CONTROL_BRAND_FOREGROUND": [
-      "#66EFFF"
+      "#8AEFFF"
     ],
 
     "CONTROL_BRAND_BACKGROUND": [
-      "#00DFFF"
+      "#63E8FF"
     ],
 
     "CONTROL_BRAND_BACKGROUND_HOVER": [
-      "#33EEFF"
+      "#A8F5FF"
     ]
   },
 
   "rawColors": {
-    "PRIMARY_500": "#66EFFF",
-    "PRIMARY_600": "#00DFFF",
-    "PRIMARY_700": "#0099B5",
+    "PRIMARY_500": "#8AEFFF",
+    "PRIMARY_600": "#63E8FF",
+    "PRIMARY_700": "#2DB4C9",
 
-    "BRAND_NEW": "#66EFFF",
+    "BRAND_NEW": "#8AEFFF",
 
-    "BLACK": "#06080D",
-    "BLACK_ALT": "#0A1118",
+    "BLACK": "#05070B",
+    "BLACK_ALT": "#0A1017",
 
     "WHITE": "#FFFFFF",
 
-    "MENTION_FOREGROUND": "#E6FFFF",
-    "MENTION_BACKGROUND": "#00E5FF20",
-    "MENTION_BAR": "#00DFFF"
+    "MENTION_FOREGROUND": "#B7FFC8",
+    "MENTION_BACKGROUND": "#00FF6622",
+    "MENTION_BAR": "#00FF66"
   }
 }
