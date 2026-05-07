@@ -1,53 +1,78 @@
 {
-  "name": "Cyan Forest Ultimate",
-  "description": "Clean Cyan Forest glass theme",
-  "authors": [
-    {
-      "name": "icntjokexd"
-    }
-  ],
+  "name": "Cyan Forest GOD BLACK",
+  "description": "Ultra AMOLED Cyan Glass Revenge Theme",
+  "authors": [{ "name": "icntjokexd" }],
   "spec": 2,
 
   "semanticColors": {
-    "BACKGROUND_PRIMARY": ["#051417cc"],
-    "BACKGROUND_SECONDARY": ["#071d21cc"],
-    "BACKGROUND_TERTIARY": ["#051417cc"],
-    "BACKGROUND_ACCENT": ["#071d21cc"],
-    "BACKGROUND_FLOATING": ["#092126cc"],
+    "BACKGROUND_PRIMARY": ["#000000cc"],
+    "BACKGROUND_SECONDARY": ["#050505cc"],
+    "BACKGROUND_TERTIARY": ["#000000cc"],
+    "BACKGROUND_ACCENT": ["#050505cc"],
+    "BACKGROUND_FLOATING": ["#000000e6"],
 
-    "TEXT_NORMAL": ["#eaffff"],
+    "CHAT_INPUT_CONTAINER_BACKGROUND": ["#050505cc"],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#050505cc"],
+    "INPUT_BACKGROUND": ["#050505cc"],
+
+    "TEXT_NORMAL": ["#ecfeff"],
     "TEXT_MUTED": ["#7fd6de"],
     "TEXT_LINK": ["#00f7ff"],
-    "TEXT_PRIMARY": ["#eaffff"],
+    "TEXT_PRIMARY": ["#ecfeff"],
     "TEXT_SECONDARY": ["#7fd6de"],
 
     "INTERACTIVE_NORMAL": ["#8ceaf2"],
     "INTERACTIVE_HOVER": ["#00f7ff"],
     "INTERACTIVE_ACTIVE": ["#b6ffff"],
+    "INTERACTIVE_MUTED": ["#5bbac2"],
 
-    "BACKGROUND_MENTIONED": ["#00e5ff1a"],
-    "BACKGROUND_MENTIONED_HOVER": ["#00e5ff2a"],
+    "HEADER_PRIMARY": ["#ecfeff"],
+    "HEADER_SECONDARY": ["#7fd6de"],
 
-    "SCROLLBAR_THIN_THUMB": ["#00e5ff88"],
-    "SCROLLBAR_THIN_TRACK": ["#051417"],
+    "CHANNEL_ICON": ["#8ceaf2"],
 
-    "CHAT_INPUT_CONTAINER_BACKGROUND": ["#071d21cc"],
-    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#071d21cc"]
+    "BACKGROUND_MENTIONED": ["#00f7ff22"],
+    "BACKGROUND_MENTIONED_HOVER": ["#00f7ff33"],
+
+    "SCROLLBAR_THIN_THUMB": ["#00f7ffaa"],
+    "SCROLLBAR_THIN_TRACK": ["#000000"],
+
+    "CHANNELTEXTAREA_PLACEHOLDER": ["#6bc7cf"],
+
+    "BACKGROUND_MODIFIER_ACCENT": ["#00f7ff14"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#00f7ff1f"],
+    "BACKGROUND_MODIFIER_HOVER": ["#00f7ff26"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#00f7ff33"],
+
+    "CARD_PRIMARY_BG": ["#000000cc"],
+    "CARD_SECONDARY_BG": ["#050505cc"],
+
+    "MODAL_BACKGROUND": ["#000000e6"],
+    "MODAL_FOOTER_BACKGROUND": ["#050505cc"],
+
+    "CONTROL_BRAND_FOREGROUND": ["#00f7ff"],
+    "CONTROL_BRAND_BACKGROUND": ["#00f7ff"],
+    "CONTROL_BRAND_BACKGROUND_HOVER": ["#00ffff"]
   },
 
   "rawColors": {
-    "PRIMARY_500": "#00e5ff",
-    "PRIMARY_600": "#00c2d6",
+    "PRIMARY_500": "#00f0ff",
+    "PRIMARY_600": "#00c8d6",
     "BRAND_NEW": "#00f7ff",
-    "MENTION_FOREGROUND": "#9afcff",
-    "MENTION_BACKGROUND": "#00e5ff1a",
-    "MENTION_BAR": "#00e5ff"
+
+    "BLACK": "#000000",
+    "BLACK_ALT": "#050505",
+    "BLACK_GLASS": "#000000cc",
+
+    "MENTION_FOREGROUND": "#a7fbff",
+    "MENTION_BACKGROUND": "#00f7ff22",
+    "MENTION_BAR": "#00f7ff"
   },
 
   "background": {
     "url": "https://i.imgur.com/MmzvkSl.jpeg",
-    "blur": 0.6,
-    "alpha": 0.55,
+    "blur": 0.8,
+    "alpha": 0.35,
     "size": "cover",
     "position": "center"
   },
