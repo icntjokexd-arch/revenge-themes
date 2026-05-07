@@ -1,6 +1,6 @@
 {
-  "name": "Soft Bubble",
-  "description": "Soft floating bubble chat aesthetic",
+  "name": "Forest Bubble",
+  "description": "Soft cyan forest bubble aesthetic",
   "authors": [
     {
       "name": "zRxdra"
@@ -12,60 +12,60 @@
   "background": {
     "url": "https://i.imgur.com/MmzvkSl.jpeg",
     "blur": 0,
-    "alpha": 0.96
+    "alpha": 0.92
   },
 
   "semanticColors": {
     "BACKGROUND_PRIMARY": [
-      "#222B36"
+      "#16181F"
     ],
 
     "BACKGROUND_SECONDARY": [
-      "#2D3846"
+      "#1E232B"
     ],
 
     "BACKGROUND_TERTIARY": [
-      "#3A4858"
+      "#2A313B"
     ],
 
     "BACKGROUND_ACCENT": [
-      "#A8C6E822"
+      "#6FD8FF1A"
     ],
 
     "BACKGROUND_MENTIONED": [
-      "#A8C6E822"
+      "#6FD8FF22"
     ],
 
     "BACKGROUND_MENTIONED_HOVER": [
-      "#C3DCF544"
+      "#6FD8FF33"
     ],
 
     "BACKGROUND_MODIFIER_HOVER": [
-      "#D5E7F01A"
+      "#9BE7FF14"
     ],
 
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#D5E7F033"
+      "#9BE7FF22"
     ],
 
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#D5E7F055"
+      "#9BE7FF33"
     ],
 
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#4A5B70"
+      "#313949"
     ],
 
     "CHAT_INPUT_CONTAINER_BACKGROUND": [
-      "#4A5B70"
+      "#313949"
     ],
 
     "TEXT_NORMAL": [
-      "#F6F9FC"
+      "#F5F8FC"
     ],
 
     "TEXT_MUTED": [
-      "#BDC9D6"
+      "#C1CDD9"
     ],
 
     "HEADER_PRIMARY": [
@@ -73,47 +73,47 @@
     ],
 
     "HEADER_SECONDARY": [
-      "#D6E3F0"
+      "#D7E5F2"
     ],
 
     "TEXT_LINK": [
-      "#BCD8F4"
+      "#8EDFFF"
     ],
 
     "INTERACTIVE_NORMAL": [
-      "#BCD8F4"
+      "#8EDFFF"
     ],
 
     "INTERACTIVE_HOVER": [
-      "#E3F1FF"
+      "#C8F1FF"
     ],
 
     "INTERACTIVE_ACTIVE": [
-      "#FFFFFF"
+      "#F4FDFF"
     ],
 
     "SCROLLBAR_THIN_THUMB": [
-      "#A8C6E8"
+      "#7ED4FF"
     ],
 
     "CONTROL_BRAND_FOREGROUND": [
-      "#BCD8F4"
+      "#8EDFFF"
     ],
 
     "CONTROL_BRAND_BACKGROUND": [
-      "#A8C6E8"
+      "#6FCBFF"
     ]
   },
 
   "rawColors": {
-    "PRIMARY_500": "#BCD8F4",
-    "PRIMARY_600": "#9EBFDB",
-    "PRIMARY_700": "#7898B5",
+    "PRIMARY_500": "#8EDFFF",
+    "PRIMARY_600": "#70C2E8",
+    "PRIMARY_700": "#4F94B5",
 
-    "BRAND_NEW": "#BCD8F4",
+    "BRAND_NEW": "#8EDFFF",
 
-    "BLACK": "#222B36",
-    "BLACK_ALT": "#2D3846",
+    "BLACK": "#16181F",
+    "BLACK_ALT": "#1E232B",
 
     "WHITE": "#FFFFFF"
   }
