@@ -17,7 +17,7 @@
     "TEXT_NORMAL": "#2E5BFF",
     "TEXT_MUTED": "#7fd6de",
     "TEXT_LINK": "#00f7ff",
-    "TEXT_PRIMARY": "#eaffff",
+    "TEXT_PRIMARY": "#2E5BFF",
     "TEXT_SECONDARY": "#7fd6de",
 
     "INTERACTIVE_NORMAL": "#8ceaf2",
