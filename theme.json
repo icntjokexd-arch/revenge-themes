@@ -1,90 +1,120 @@
 {
-  "name": "Cyan Bubbles",
-  "description": "Neon cyan AMOLED bubble theme",
+  "name": "Soft Bubble",
+  "description": "Soft floating bubble chat aesthetic",
   "authors": [
     {
       "name": "zRxdra"
     }
   ],
+
   "spec": 2,
 
   "background": {
     "url": "https://i.imgur.com/MmzvkSl.jpeg",
     "blur": 0,
-    "alpha": 0.90
+    "alpha": 0.96
   },
 
   "semanticColors": {
-    "BACKGROUND_PRIMARY": {
-      "raw": "#000000"
-    },
+    "BACKGROUND_PRIMARY": [
+      "#222B36"
+    ],
 
-    "BACKGROUND_SECONDARY": {
-      "raw": "#1A3A40"
-    },
+    "BACKGROUND_SECONDARY": [
+      "#2D3846"
+    ],
 
-    "BACKGROUND_TERTIARY": {
-      "raw": "#24545C"
-    },
+    "BACKGROUND_TERTIARY": [
+      "#3A4858"
+    ],
 
-    "TEXT_NORMAL": {
-      "raw": "#FFFFFF"
-    },
+    "BACKGROUND_ACCENT": [
+      "#A8C6E822"
+    ],
 
-    "TEXT_MUTED": {
-      "raw": "#8FFFEF"
-    },
+    "BACKGROUND_MENTIONED": [
+      "#A8C6E822"
+    ],
 
-    "HEADER_PRIMARY": {
-      "raw": "#FFFFFF"
-    },
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#C3DCF544"
+    ],
 
-    "HEADER_SECONDARY": {
-      "raw": "#7FFFF0"
-    },
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#D5E7F01A"
+    ],
 
-    "INTERACTIVE_NORMAL": {
-      "raw": "#00FFF0"
-    },
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#D5E7F033"
+    ],
 
-    "INTERACTIVE_HOVER": {
-      "raw": "#7FFFFFFF"
-    },
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#D5E7F055"
+    ],
 
-    "INTERACTIVE_ACTIVE": {
-      "raw": "#CFFFFFFF"
-    },
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#4A5B70"
+    ],
 
-    "CHANNELTEXTAREA_BACKGROUND": {
-      "raw": "#2A666E"
-    },
+    "CHAT_INPUT_CONTAINER_BACKGROUND": [
+      "#4A5B70"
+    ],
 
-    "CHAT_INPUT_CONTAINER_BACKGROUND": {
-      "raw": "#2A666E"
-    },
+    "TEXT_NORMAL": [
+      "#F6F9FC"
+    ],
 
-    "BACKGROUND_MODIFIER_HOVER": {
-      "raw": "#00FFF044"
-    },
+    "TEXT_MUTED": [
+      "#BDC9D6"
+    ],
 
-    "BACKGROUND_MODIFIER_ACTIVE": {
-      "raw": "#00FFF066"
-    },
+    "HEADER_PRIMARY": [
+      "#FFFFFF"
+    ],
 
-    "BACKGROUND_MODIFIER_SELECTED": {
-      "raw": "#00FFF088"
-    },
+    "HEADER_SECONDARY": [
+      "#D6E3F0"
+    ],
 
-    "SCROLLBAR_THIN_THUMB": {
-      "raw": "#00FFF0"
-    },
+    "TEXT_LINK": [
+      "#BCD8F4"
+    ],
 
-    "CONTROL_BRAND_FOREGROUND": {
-      "raw": "#00FFF0"
-    },
+    "INTERACTIVE_NORMAL": [
+      "#BCD8F4"
+    ],
 
-    "CONTROL_BRAND_BACKGROUND": {
-      "raw": "#00FFF0"
-    }
+    "INTERACTIVE_HOVER": [
+      "#E3F1FF"
+    ],
+
+    "INTERACTIVE_ACTIVE": [
+      "#FFFFFF"
+    ],
+
+    "SCROLLBAR_THIN_THUMB": [
+      "#A8C6E8"
+    ],
+
+    "CONTROL_BRAND_FOREGROUND": [
+      "#BCD8F4"
+    ],
+
+    "CONTROL_BRAND_BACKGROUND": [
+      "#A8C6E8"
+    ]
+  },
+
+  "rawColors": {
+    "PRIMARY_500": "#BCD8F4",
+    "PRIMARY_600": "#9EBFDB",
+    "PRIMARY_700": "#7898B5",
+
+    "BRAND_NEW": "#BCD8F4",
+
+    "BLACK": "#222B36",
+    "BLACK_ALT": "#2D3846",
+
+    "WHITE": "#FFFFFF"
   }
 }
