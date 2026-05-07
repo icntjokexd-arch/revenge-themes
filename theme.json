@@ -1,0 +1,119 @@
+{
+  "name": "Cyan Eclipse",
+  "description": "Cyan black soft bubble aesthetic",
+  "authors": [
+    {
+      "name": "zRxdra"
+    }
+  ],
+  "spec": 2,
+
+  "background": {
+    "url": "https://i.imgur.com/Y7sfCpT.png",
+    "blur": 0,
+    "alpha": 0.95
+  },
+
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": [
+      "#05070A"
+    ],
+
+    "BACKGROUND_SECONDARY": [
+      "#0A1016"
+    ],
+
+    "BACKGROUND_TERTIARY": [
+      "#101C24"
+    ],
+
+    "CARD_PRIMARY_BG": [
+      "#111A22"
+    ],
+
+    "CARD_SECONDARY_BG": [
+      "#162733"
+    ],
+
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#183847"
+    ],
+
+    "CHAT_INPUT_CONTAINER_BACKGROUND": [
+      "#183847"
+    ],
+
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#00F0FF22"
+    ],
+
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#00F0FF33"
+    ],
+
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#00F0FF44"
+    ],
+
+    "BACKGROUND_MENTIONED": [
+      "#00F0FF22"
+    ],
+
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#00F0FF44"
+    ],
+
+    "TEXT_NORMAL": [
+      "#F2FFFF"
+    ],
+
+    "TEXT_MUTED": [
+      "#9FD6DE"
+    ],
+
+    "HEADER_PRIMARY": [
+      "#FFFFFF"
+    ],
+
+    "HEADER_SECONDARY": [
+      "#BFF7FF"
+    ],
+
+    "TEXT_LINK": [
+      "#66F2FF"
+    ],
+
+    "INTERACTIVE_NORMAL": [
+      "#66F2FF"
+    ],
+
+    "INTERACTIVE_HOVER": [
+      "#D9FDFF"
+    ],
+
+    "INTERACTIVE_ACTIVE": [
+      "#FFFFFF"
+    ],
+
+    "CONTROL_BRAND_FOREGROUND": [
+      "#66F2FF"
+    ],
+
+    "CONTROL_BRAND_BACKGROUND": [
+      "#00DFFF"
+    ]
+  },
+
+  "rawColors": {
+    "PRIMARY_500": "#66F2FF",
+    "PRIMARY_600": "#00DFFF",
+    "PRIMARY_700": "#009FB8",
+
+    "BRAND_NEW": "#66F2FF",
+
+    "BLACK": "#05070A",
+    "BLACK_ALT": "#0A1016",
+
+    "WHITE": "#FFFFFF"
+  }
+}
