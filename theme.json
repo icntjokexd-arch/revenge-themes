@@ -1,6 +1,6 @@
 {
-  "name": "Neon Abyss Bubble",
-  "description": "AMOLED cyan bubble-style theme for Revenge",
+  "name": "Cyan Bubbles",
+  "description": "Neon cyan AMOLED bubble theme",
   "authors": [
     {
       "name": "zRxdra"
@@ -11,7 +11,7 @@
   "background": {
     "url": "https://i.imgur.com/MmzvkSl.jpeg",
     "blur": 0,
-    "alpha": 0.84
+    "alpha": 0.90
   },
 
   "semanticColors": {
@@ -20,27 +20,19 @@
     },
 
     "BACKGROUND_SECONDARY": {
-      "raw": "#0D2328"
+      "raw": "#1A3A40"
     },
 
     "BACKGROUND_TERTIARY": {
-      "raw": "#13343B"
-    },
-
-    "BACKGROUND_FLOATING": {
-      "raw": "#102B31"
-    },
-
-    "BACKGROUND_ACCENT": {
-      "raw": "#00FFF033"
+      "raw": "#24545C"
     },
 
     "TEXT_NORMAL": {
-      "raw": "#F2FFFF"
+      "raw": "#FFFFFF"
     },
 
     "TEXT_MUTED": {
-      "raw": "#88E7DF"
+      "raw": "#8FFFEF"
     },
 
     "HEADER_PRIMARY": {
@@ -48,79 +40,43 @@
     },
 
     "HEADER_SECONDARY": {
-      "raw": "#9EFFF6"
-    },
-
-    "TEXT_LINK": {
-      "raw": "#00FFF0"
+      "raw": "#7FFFF0"
     },
 
     "INTERACTIVE_NORMAL": {
-      "raw": "#00FFE1"
+      "raw": "#00FFF0"
     },
 
     "INTERACTIVE_HOVER": {
-      "raw": "#66FFF7"
+      "raw": "#7FFFFFFF"
     },
 
     "INTERACTIVE_ACTIVE": {
-      "raw": "#D2FFFF"
+      "raw": "#CFFFFFFF"
     },
 
     "CHANNELTEXTAREA_BACKGROUND": {
-      "raw": "#173E46"
+      "raw": "#2A666E"
     },
 
     "CHAT_INPUT_CONTAINER_BACKGROUND": {
-      "raw": "#173E46"
-    },
-
-    "REDESIGN_CHAT_INPUT_BACKGROUND": {
-      "raw": "#173E46"
+      "raw": "#2A666E"
     },
 
     "BACKGROUND_MODIFIER_HOVER": {
-      "raw": "#00FFF022"
+      "raw": "#00FFF044"
     },
 
     "BACKGROUND_MODIFIER_ACTIVE": {
-      "raw": "#00FFF044"
-    },
-
-    "BACKGROUND_MODIFIER_SELECTED": {
       "raw": "#00FFF066"
     },
 
-    "BACKGROUND_MENTIONED": {
-      "raw": "#00FFF022"
-    },
-
-    "BACKGROUND_MENTIONED_HOVER": {
-      "raw": "#00FFF044"
-    },
-
-    "CARD_PRIMARY_BG": {
-      "raw": "#112E34"
-    },
-
-    "CARD_SECONDARY_BG": {
-      "raw": "#163A42"
-    },
-
-    "MODAL_BACKGROUND": {
-      "raw": "#112E34"
-    },
-
-    "MODAL_FOOTER_BACKGROUND": {
-      "raw": "#163A42"
+    "BACKGROUND_MODIFIER_SELECTED": {
+      "raw": "#00FFF088"
     },
 
     "SCROLLBAR_THIN_THUMB": {
       "raw": "#00FFF0"
-    },
-
-    "SCROLLBAR_THIN_TRACK": {
-      "raw": "#00000000"
     },
 
     "CONTROL_BRAND_FOREGROUND": {
@@ -129,29 +85,6 @@
 
     "CONTROL_BRAND_BACKGROUND": {
       "raw": "#00FFF0"
-    },
-
-    "CONTROL_BRAND_BACKGROUND_HOVER": {
-      "raw": "#66FFF7"
-    },
-
-    "CHANNELTEXTAREA_PLACEHOLDER": {
-      "raw": "#9FFAF2"
     }
-  },
-
-  "rawColors": {
-    "PRIMARY_500": "#00FFF0",
-    "PRIMARY_600": "#00D4C7",
-    "PRIMARY_700": "#009F96",
-
-    "BRAND_NEW": "#00FFF0",
-
-    "BLACK": "#000000",
-    "BLACK_ALT": "#0B0B0B",
-
-    "MENTION_FOREGROUND": "#D6FFFF",
-    "MENTION_BACKGROUND": "#00FFF033",
-    "MENTION_BAR": "#00FFF0"
   }
 }
