@@ -1,7 +1,10 @@
 {
   "name": "Cyan Forest Ultimate",
-  "description": "Clean cyan glass revenge theme",
-  "author": "You",
+  "description": "Clean cyan glass Revenge theme",
+  "authors": [
+    { "name": "icntjokexd" }
+  ],
+  "spec": 2,
 
   "background": {
     "url": "https://i.imgur.com/MmzvkSl.jpeg",
@@ -9,144 +12,41 @@
     "alpha": 0.55
   },
 
-  "colors": {
-    "primary": "#00e5ff",
-    "secondary": "#00c2d6",
-    "accent": "#00f7ff",
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": "#051417",
+    "BACKGROUND_SECONDARY": "#071d21",
+    "BACKGROUND_TERTIARY": "#0a262b",
+    "BACKGROUND_FLOATING": "#092126cc",
 
-    "background": "#051417",
-    "background-secondary": "#071d21",
-    "background-tertiary": "#0a262b",
-    "background-floating": "#092126cc",
+    "HEADER_PRIMARY": "#eaffff",
+    "HEADER_SECONDARY": "#9be7ef",
 
-    "text-normal": "#eaffff",
-    "text-muted": "#7fd6de",
-    "text-link": "#00f7ff",
+    "TEXT_NORMAL": "#eaffff",
+    "TEXT_MUTED": "#7fd6de",
+    "TEXT_LINK": "#00f7ff",
 
-    "interactive-normal": "#8ceaf2",
-    "interactive-hover": "#00f7ff",
-    "interactive-active": "#b6ffff",
+    "INTERACTIVE_NORMAL": "#8ceaf2",
+    "INTERACTIVE_HOVER": "#00f7ff",
+    "INTERACTIVE_ACTIVE": "#b6ffff",
 
-    "background-mentioned": "#00e5ff1a",
-    "background-mentioned-hover": "#00e5ff2a",
-    "mention-foreground": "#9afcff"
-  },
+    "CHANNELTEXTAREA_BACKGROUND": "#071d21cc",
+    "INPUT_BACKGROUND": "#071d21cc",
 
-  "ui": {
-    "roundness": 18,
-    "transparency": 0.65,
-    "shadow-intensity": 0.35
-  },
-
-  "effects": {
-    "glassmorphism": true,
-    "acrylic-blur": true,
-    "vibrancy": true
-  },
-
-  "chat": {
-    "clean-mode": true,
-    "compact-spacing": false,
-    "message-padding": 6,
-    "message-hover-highlight": true,
-    "timestamp-opacity": 0.55
-  },
-
-  "mentions": {
-    "style": "flat",
-    "left-bar": true,
-    "left-bar-width": 4,
-    "pill": false
-  },
-
-  "embeds": {
-    "radius": 16,
-    "blur": 18,
-    "alpha": 0.55,
-    "border-width": 2,
-    "border-color": "#00e5ff"
-  },
-
-  "buttons": {
-    "radius": 16,
-    "hover-brightness": 1.1,
-    "primary": "#00e5ff",
-    "primary-hover": "#00f7ff",
-    "primary-active": "#00c2d6"
-  },
-
-  "sidebar": {
-    "channel-hover": "#00e5ff18",
-    "channel-active": "#00e5ff30",
-    "server-active-ring": "#00f7ff"
-  },
-
-  "selection": {
-    "text-bg": "#00e5ff55",
-    "text-color": "#ffffff"
-  },
-
-  "scrollbars": {
-    "enabled": true,
-    "width": 6,
-    "color": "#00e5ff88",
-    "hover": "#00f7ffaa"
-  },
-
-  "inputs": {
-    "background": "#071d21cc",
-    "border": "#00e5ff55",
-    "focus-border": "#00f7ff"
-  },
-
-  "voice": {
-    "speaking-ring": "#00f7ff",
-    "user-hover": "#00e5ff25",
-    "panel-bg": "#071d21cc",
-    "mic-active": "#00f7ff",
-    "deafen-active": "#00c2d6"
-  },
-
-  "sliders": {
-    "track": "#06373c",
-    "fill": "#00e5ff",
-    "grabber": "#00f7ff"
-  },
-
-  "toggles": {
-    "off-bg": "#062a2e",
-    "on-bg": "#00e5ff",
-    "grabber": "#ffffff"
-  },
-
-  "progress": {
-    "bg": "#062a2e",
-    "bar": "#00e5ff"
-  },
-
-  "menus": {
-    "hover": "#00e5ff20",
-    "active": "#00e5ff35",
-    "border": "#00e5ff40"
-  },
-
-  "typing": {
-    "dot": "#00f7ff",
-    "text": "#8ceaf2"
-  },
-
-  "font": {
-    "name": "gg sans",
-    "size": 15
+    "MENTIONED_BACKGROUND": "#00e5ff1a",
+    "MENTIONED_HOVER": "#00e5ff2a"
   },
 
   "rawColors": {
+    "PRIMARY_500": "#00e5ff",
+    "PRIMARY_600": "#00c2d6",
+    "BRAND_500": "#00f7ff",
+
     "CHAT_BACKGROUND": "transparent",
     "APP_BACKGROUND": "#000000",
     "SIDEBAR_BACKGROUND": "#000000",
+
     "MENTION_BACKGROUND": "#00e5ff1a",
     "MENTION_HOVER": "#00e5ff2a",
-    "MENTION_FOREGROUND": "#9afcff",
     "MENTION_BAR": "#00e5ff"
   }
 }
