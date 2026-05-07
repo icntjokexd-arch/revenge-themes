@@ -1,6 +1,6 @@
 {
   "name": "Cyan Forest Ultimate FINAL",
-  "description": "AMOLED black + cyan glass revenge theme (no blur)",
+  "description": "AMOLED black + cyan glass revenge theme (no blur) - Fixed Syntax",
   "authors": [{ "name": "zRxdra" }],
   "spec": 2,
 
@@ -11,52 +11,52 @@
   },
 
   "semanticColors": {
-    "HEADER_PRIMARY": "#eaffff",
-    "HEADER_SECONDARY": "#8ceaf2",
+    "HEADER_PRIMARY": { "raw": "#eaffff" },
+    "HEADER_SECONDARY": { "raw": "#8ceaf2" },
 
-    "TEXT_NORMAL": "#eaffff",
-    "TEXT_MUTED": "#7fd6de",
-    "TEXT_LINK": "#00f7ff",
-    "TEXT_PRIMARY": "#eaffff",
-    "TEXT_SECONDARY": "#7fd6de",
+    "TEXT_NORMAL": { "raw": "#eaffff" },
+    "TEXT_MUTED": { "raw": "#7fd6de" },
+    "TEXT_LINK": { "raw": "#00f7ff" },
+    "TEXT_PRIMARY": { "raw": "#eaffff" },
+    "TEXT_SECONDARY": { "raw": "#7fd6de" },
 
-    "INTERACTIVE_NORMAL": "#8ceaf2",
-    "INTERACTIVE_HOVER": "#00f7ff",
-    "INTERACTIVE_ACTIVE": "#b6ffff",
-    "INTERACTIVE_MUTED": "#5bbac2",
+    "INTERACTIVE_NORMAL": { "raw": "#8ceaf2" },
+    "INTERACTIVE_HOVER": { "raw": "#00f7ff" },
+    "INTERACTIVE_ACTIVE": { "raw": "#b6ffff" },
+    "INTERACTIVE_MUTED": { "raw": "#5bbac2" },
 
-    "BACKGROUND_PRIMARY": "#050f11",
-    "BACKGROUND_SECONDARY": "#07171a",
-    "BACKGROUND_TERTIARY": "#020708",
-    "BACKGROUND_FLOATING": "#000000",
-    "BACKGROUND_ACCENT": "#00e5ff14",
+    "BACKGROUND_PRIMARY": { "raw": "#000000" },
+    "BACKGROUND_SECONDARY": { "raw": "#050f11" },
+    "BACKGROUND_TERTIARY": { "raw": "#020708" },
+    "BACKGROUND_FLOATING": { "raw": "#000000" },
+    "BACKGROUND_ACCENT": { "raw": "#00e5ff1f" },
 
-    "BACKGROUND_MENTIONED": "#00f7ff1f",
-    "BACKGROUND_MENTIONED_HOVER": "#00f7ff33",
+    "BACKGROUND_MENTIONED": { "raw": "#00f7ff1f" },
+    "BACKGROUND_MENTIONED_HOVER": { "raw": "#00f7ff33" },
 
-    "CHANNELTEXTAREA_BACKGROUND": "#021012",
-    "CHAT_INPUT_CONTAINER_BACKGROUND": "#021012",
-    "REDESIGN_CHAT_INPUT_BACKGROUND": "#021012",
+    "CHANNELTEXTAREA_BACKGROUND": { "raw": "#021012" },
+    "CHAT_INPUT_CONTAINER_BACKGROUND": { "raw": "#021012" },
+    "REDESIGN_CHAT_INPUT_BACKGROUND": { "raw": "#021012" },
 
-    "CARD_PRIMARY_BG": "#000000",
-    "CARD_SECONDARY_BG": "#050505",
+    "CARD_PRIMARY_BG": { "raw": "#000000" },
+    "CARD_SECONDARY_BG": { "raw": "#050505" },
 
-    "MODAL_BACKGROUND": "#000000",
-    "MODAL_FOOTER_BACKGROUND": "#050505",
+    "MODAL_BACKGROUND": { "raw": "#000000" },
+    "MODAL_FOOTER_BACKGROUND": { "raw": "#050505" },
 
-    "BACKGROUND_MODIFIER_ACCENT": "#00f7ff14",
-    "BACKGROUND_MODIFIER_ACTIVE": "#00f7ff1f",
-    "BACKGROUND_MODIFIER_HOVER": "#00f7ff26",
-    "BACKGROUND_MODIFIER_SELECTED": "#00f7ff33",
+    "BACKGROUND_MODIFIER_ACCENT": { "raw": "#00f7ff1f" },
+    "BACKGROUND_MODIFIER_ACTIVE": { "raw": "#00f7ff33" },
+    "BACKGROUND_MODIFIER_HOVER": { "raw": "#00f7ff2b" },
+    "BACKGROUND_MODIFIER_SELECTED": { "raw": "#00f7ff4d" },
 
-    "SCROLLBAR_THIN_THUMB": "#00f7ffaa",
-    "SCROLLBAR_THIN_TRACK": "#000000",
+    "SCROLLBAR_THIN_THUMB": { "raw": "#00f7ff" },
+    "SCROLLBAR_THIN_TRACK": { "raw": "#00000000" },
 
-    "CHANNELTEXTAREA_PLACEHOLDER": "#6bc7cf",
+    "CHANNELTEXTAREA_PLACEHOLDER": { "raw": "#5bbac2" },
 
-    "CONTROL_BRAND_FOREGROUND": "#00f7ff",
-    "CONTROL_BRAND_BACKGROUND": "#00f7ff",
-    "CONTROL_BRAND_BACKGROUND_HOVER": "#00ffff"
+    "CONTROL_BRAND_FOREGROUND": { "raw": "#00f7ff" },
+    "CONTROL_BRAND_BACKGROUND": { "raw": "#00f7ff" },
+    "CONTROL_BRAND_BACKGROUND_HOVER": { "raw": "#00ffff" }
   },
 
   "rawColors": {
