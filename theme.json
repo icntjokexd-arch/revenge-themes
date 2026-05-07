@@ -1,36 +1,44 @@
 {
   "name": "Cyan Forest Ultimate",
-  "description": "Clean cyan glass revenge theme",
+  "description": "Clean Cyan Forest glass theme",
   "authors": [
-    { "name": "icntjokexd" }
+    {
+      "name": "icntjokexd"
+    }
   ],
   "spec": 2,
 
   "semanticColors": {
-    "HEADER_PRIMARY": ["#eaffff", "#eaffff"],
-    "TEXT_NORMAL": ["#eaffff", "#eaffff"],
-    "TEXT_MUTED": ["#7fd6de", "#7fd6de"],
-    "TEXT_LINK": ["#00f7ff", "#00f7ff"],
+    "BACKGROUND_PRIMARY": ["#051417cc"],
+    "BACKGROUND_SECONDARY": ["#071d21cc"],
+    "BACKGROUND_TERTIARY": ["#051417cc"],
+    "BACKGROUND_ACCENT": ["#071d21cc"],
+    "BACKGROUND_FLOATING": ["#092126cc"],
 
-    "INTERACTIVE_NORMAL": ["#8ceaf2", "#8ceaf2"],
-    "INTERACTIVE_HOVER": ["#00f7ff", "#00f7ff"],
-    "INTERACTIVE_ACTIVE": ["#b6ffff", "#b6ffff"],
+    "TEXT_NORMAL": ["#eaffff"],
+    "TEXT_MUTED": ["#7fd6de"],
+    "TEXT_LINK": ["#00f7ff"],
+    "TEXT_PRIMARY": ["#eaffff"],
+    "TEXT_SECONDARY": ["#7fd6de"],
 
-    "BACKGROUND_PRIMARY": ["#051417", "#051417"],
-    "BACKGROUND_SECONDARY": ["#071d21", "#071d21"],
-    "BACKGROUND_TERTIARY": ["#0a262b", "#0a262b"],
+    "INTERACTIVE_NORMAL": ["#8ceaf2"],
+    "INTERACTIVE_HOVER": ["#00f7ff"],
+    "INTERACTIVE_ACTIVE": ["#b6ffff"],
 
-    "BACKGROUND_FLOATING": ["#092126", "#092126"],
+    "BACKGROUND_MENTIONED": ["#00e5ff1a"],
+    "BACKGROUND_MENTIONED_HOVER": ["#00e5ff2a"],
 
-    "BACKGROUND_MENTIONED": ["#00e5ff1a", "#00e5ff1a"],
-    "BACKGROUND_MENTIONED_HOVER": ["#00e5ff2a", "#00e5ff2a"]
+    "SCROLLBAR_THIN_THUMB": ["#00e5ff88"],
+    "SCROLLBAR_THIN_TRACK": ["#051417"],
+
+    "CHAT_INPUT_CONTAINER_BACKGROUND": ["#071d21cc"],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#071d21cc"]
   },
 
   "rawColors": {
     "PRIMARY_500": "#00e5ff",
     "PRIMARY_600": "#00c2d6",
     "BRAND_NEW": "#00f7ff",
-
     "MENTION_FOREGROUND": "#9afcff",
     "MENTION_BACKGROUND": "#00e5ff1a",
     "MENTION_BAR": "#00e5ff"
@@ -38,7 +46,14 @@
 
   "background": {
     "url": "https://i.imgur.com/MmzvkSl.jpeg",
-    "blur": 6,
-    "alpha": 0.55
+    "blur": 0.6,
+    "alpha": 0.55,
+    "size": "cover",
+    "position": "center"
+  },
+
+  "plus": {
+    "version": "0",
+    "iconpack": "solar"
   }
 }
