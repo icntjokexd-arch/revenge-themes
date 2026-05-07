@@ -1,6 +1,6 @@
 {
-  "name": "Midnight Cyan 328",
-  "description": "Cyan-black aesthetic optimized for Discord 328.7",
+  "name": "Midnight Cyan Complete",
+  "description": "Glorious Sunset inspired cyan-black Revenge theme",
   "authors": [
     {
       "name": "zRxdra"
@@ -12,7 +12,7 @@
   "background": {
     "url": "https://files.catbox.moe/ivnvoo.png",
     "blur": 0,
-    "alpha": 0.84
+    "alpha": 0.90
   },
 
   "semanticColors": {
@@ -22,18 +22,6 @@
 
     "BACKGROUND_BASE_SECONDARY": [
       "#0A1017"
-    ],
-
-    "BACKGROUND_SURFACE_PRIMARY": [
-      "#111821"
-    ],
-
-    "BACKGROUND_SURFACE_SECONDARY": [
-      "#17222E"
-    ],
-
-    "BACKGROUND_SURFACE_TERTIARY": [
-      "#223140"
     ],
 
     "BACKGROUND_PRIMARY": [
@@ -52,6 +40,30 @@
       "#17222E"
     ],
 
+    "BACKGROUND_SURFACE_PRIMARY": [
+      "#111821"
+    ],
+
+    "BACKGROUND_SURFACE_SECONDARY": [
+      "#17222E"
+    ],
+
+    "BACKGROUND_SURFACE_TERTIARY": [
+      "#223140"
+    ],
+
+    "BACKGROUND_SURFACE_HIGH": [
+      "#1E2D3D"
+    ],
+
+    "BACKGROUND_SURFACE_HIGHER": [
+      "#26394A"
+    ],
+
+    "BACKGROUND_SURFACE_HIGHEST": [
+      "#31495E"
+    ],
+
     "CARD_PRIMARY_BG": [
       "#111821"
     ],
@@ -61,122 +73,145 @@
     ],
 
     "MODAL_BACKGROUND": [
-      "#0D141C"
+      "#10161D"
     ],
 
     "MODAL_FOOTER_BACKGROUND": [
-      "#121B24"
+      "#151F28"
     ],
 
     "CHAT_INPUT_CONTAINER_BACKGROUND": [
-      "#0D1722"
+      "#0F1822CC"
     ],
 
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#0D1722"
+      "#0F1822CC"
     ],
 
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#0D1722"
-    ],
-
-    "BACKGROUND_MOD_PRIMARY": [
-      "#8AEFFF08"
-    ],
-
-    "BACKGROUND_MOD_SECONDARY": [
-      "#8AEFFF12"
+      "#0F1822CC"
     ],
 
     "BACKGROUND_MODIFIER_HOVER": [
-      "#8AEFFF10"
+      "#3BA7B812"
     ],
 
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#8AEFFF18"
+      "#3BA7B818"
     ],
 
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#8AEFFF24"
+      "#3BA7B824"
     ],
 
     "BACKGROUND_MENTIONED": [
-      "#00FF6620"
+      "#00FF6622"
     ],
 
     "BACKGROUND_MENTIONED_HOVER": [
-      "#00FF6630"
-    ],
-
-    "TEXT_MENTION": [
-      "#6DFF9A"
+      "#00FF6633"
     ],
 
     "TEXT_NORMAL": [
-      "#CFE8F2"
+      "#4FA6B8"
     ],
 
     "TEXT_MUTED": [
-      "#7D97A8"
-    ],
-
-    "HEADER_PRIMARY": [
-      "#D7F4FF"
-    ],
-
-    "HEADER_SECONDARY": [
-      "#9FC7D8"
+      "#3D7E8C"
     ],
 
     "TEXT_LINK": [
-      "#7FE7FF"
+      "#58C7D9"
+    ],
+
+    "TEXT_BRAND": [
+      "#58C7D9"
+    ],
+
+    "TEXT_POSITIVE": [
+      "#6DFF9A"
+    ],
+
+    "HEADER_PRIMARY": [
+      "#63C9D8"
+    ],
+
+    "HEADER_SECONDARY": [
+      "#4E98A8"
     ],
 
     "INTERACTIVE_NORMAL": [
-      "#7FE7FF"
+      "#58C7D9"
     ],
 
     "INTERACTIVE_HOVER": [
-      "#AEEFFF"
+      "#7FE7FF"
     ],
 
     "INTERACTIVE_ACTIVE": [
-      "#CFF8FF"
+      "#AEEFFF"
+    ],
+
+    "CONTROL_BRAND_FOREGROUND": [
+      "#58C7D9"
+    ],
+
+    "CONTROL_BRAND_BACKGROUND": [
+      "#3BA7B8"
+    ],
+
+    "CONTROL_BRAND_BACKGROUND_HOVER": [
+      "#58C7D9"
     ],
 
     "SCROLLBAR_THIN_THUMB": [
-      "#5FDFFF"
+      "#3BA7B8"
     ],
 
     "SCROLLBAR_THIN_TRACK": [
       "#00000000"
     ],
 
-    "CONTROL_BRAND_FOREGROUND": [
-      "#7FE7FF"
+    "STATUS_POSITIVE": [
+      "#57F287"
     ],
 
-    "CONTROL_BRAND_BACKGROUND": [
-      "#63E8FF"
+    "STATUS_WARNING": [
+      "#FEE75C"
     ],
 
-    "CONTROL_BRAND_BACKGROUND_HOVER": [
-      "#8DEEFF"
+    "STATUS_DANGER": [
+      "#ED4245"
+    ],
+
+    "STATUS_SPEAKING": [
+      "#58C7D9"
+    ],
+
+    "GREEN_360": [
+      "#57F287"
+    ],
+
+    "GREEN_330": [
+      "#3BD671"
     ]
   },
 
   "rawColors": {
-    "PRIMARY_500": "#7FE7FF",
-    "PRIMARY_600": "#63E8FF",
-    "PRIMARY_700": "#2AA9C2",
+    "PRIMARY_500": "#58C7D9",
+    "PRIMARY_600": "#3BA7B8",
+    "PRIMARY_700": "#2B7F8C",
 
-    "BRAND_NEW": "#7FE7FF",
+    "BRAND_NEW": "#58C7D9",
 
     "BLACK": "#05070B",
     "BLACK_ALT": "#0A1017",
 
+    "GREEN_360": "#57F287",
+    "GREEN_330": "#3BD671",
+
     "MENTION_FOREGROUND": "#6DFF9A",
-    "MENTION_BACKGROUND": "#00FF6620",
+    "MENTION_BACKGROUND": "#00FF6622",
     "MENTION_BAR": "#00FF66"
   }
 }
