@@ -1,66 +1,83 @@
 {
-  "name": "Cyan Eclipse",
-  "description": "Cyan black soft bubble aesthetic",
+  "name": "Cyan Galaxy",
+  "description": "Soft cyan-black galaxy bubbles",
   "authors": [
     {
       "name": "zRxdra"
     }
   ],
+
   "spec": 2,
 
   "background": {
     "url": "https://files.catbox.moe/ivnvoo.png",
     "blur": 0,
-    "alpha": 0.95
+    "alpha": 0.92
   },
 
   "semanticColors": {
     "BACKGROUND_PRIMARY": [
-      "#05070A"
+      "#06080D"
     ],
 
     "BACKGROUND_SECONDARY": [
-      "#0A1016"
+      "#0A1118"
     ],
 
     "BACKGROUND_TERTIARY": [
-      "#101C24"
+      "#111A24"
     ],
 
     "CARD_PRIMARY_BG": [
-      "#111A22"
+      "#121C27"
     ],
 
     "CARD_SECONDARY_BG": [
-      "#162733"
+      "#182634"
+    ],
+
+    "MODAL_BACKGROUND": [
+      "#101720"
+    ],
+
+    "MODAL_FOOTER_BACKGROUND": [
+      "#16212D"
     ],
 
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#183847"
+      "#20394B"
     ],
 
     "CHAT_INPUT_CONTAINER_BACKGROUND": [
-      "#183847"
+      "#20394B"
+    ],
+
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#20394B"
+    ],
+
+    "BACKGROUND_ACCENT": [
+      "#00E5FF14"
     ],
 
     "BACKGROUND_MODIFIER_HOVER": [
-      "#00F0FF22"
+      "#00E5FF18"
     ],
 
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#00F0FF33"
+      "#00E5FF22"
     ],
 
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#00F0FF44"
+      "#00E5FF30"
     ],
 
     "BACKGROUND_MENTIONED": [
-      "#00F0FF22"
+      "#00E5FF20"
     ],
 
     "BACKGROUND_MENTIONED_HOVER": [
-      "#00F0FF44"
+      "#00E5FF35"
     ],
 
     "TEXT_NORMAL": [
@@ -68,7 +85,7 @@
     ],
 
     "TEXT_MUTED": [
-      "#9FD6DE"
+      "#98B8C7"
     ],
 
     "HEADER_PRIMARY": [
@@ -76,44 +93,60 @@
     ],
 
     "HEADER_SECONDARY": [
-      "#BFF7FF"
+      "#CBEFFF"
     ],
 
     "TEXT_LINK": [
-      "#66F2FF"
+      "#66EFFF"
     ],
 
     "INTERACTIVE_NORMAL": [
-      "#66F2FF"
+      "#66EFFF"
     ],
 
     "INTERACTIVE_HOVER": [
-      "#D9FDFF"
+      "#CFFFFF"
     ],
 
     "INTERACTIVE_ACTIVE": [
       "#FFFFFF"
     ],
 
+    "SCROLLBAR_THIN_THUMB": [
+      "#00DFFF"
+    ],
+
+    "SCROLLBAR_THIN_TRACK": [
+      "#00000000"
+    ],
+
     "CONTROL_BRAND_FOREGROUND": [
-      "#66F2FF"
+      "#66EFFF"
     ],
 
     "CONTROL_BRAND_BACKGROUND": [
       "#00DFFF"
+    ],
+
+    "CONTROL_BRAND_BACKGROUND_HOVER": [
+      "#33EEFF"
     ]
   },
 
   "rawColors": {
-    "PRIMARY_500": "#66F2FF",
+    "PRIMARY_500": "#66EFFF",
     "PRIMARY_600": "#00DFFF",
-    "PRIMARY_700": "#009FB8",
+    "PRIMARY_700": "#0099B5",
 
-    "BRAND_NEW": "#66F2FF",
+    "BRAND_NEW": "#66EFFF",
 
-    "BLACK": "#05070A",
-    "BLACK_ALT": "#0A1016",
+    "BLACK": "#06080D",
+    "BLACK_ALT": "#0A1118",
 
-    "WHITE": "#FFFFFF"
+    "WHITE": "#FFFFFF",
+
+    "MENTION_FOREGROUND": "#E6FFFF",
+    "MENTION_BACKGROUND": "#00E5FF20",
+    "MENTION_BAR": "#00DFFF"
   }
 }
