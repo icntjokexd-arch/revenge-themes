@@ -1,6 +1,6 @@
 {
-  "name": "Blue Neon Ultimate FINAL",
-  "description": "AMOLED black + electric blue glass revenge theme (no blur)",
+  "name": "Blue Neon Revenge",
+  "description": "AMOLED black + electric blue theme",
   "authors": [{ "name": "zRxdra" }],
   "spec": 2,
 
@@ -29,6 +29,7 @@
     "BACKGROUND_SECONDARY": "#070B1A",
     "BACKGROUND_TERTIARY": "#02040A",
     "BACKGROUND_FLOATING": "#000000",
+
     "BACKGROUND_ACCENT": "#2E5BFF14",
 
     "BACKGROUND_MENTIONED": "#2E5BFF1F",
@@ -36,7 +37,6 @@
 
     "CHANNELTEXTAREA_BACKGROUND": "#050A14",
     "CHAT_INPUT_CONTAINER_BACKGROUND": "#050A14",
-    "REDESIGN_CHAT_INPUT_BACKGROUND": "#050A14",
 
     "CARD_PRIMARY_BG": "#000000",
     "CARD_SECONDARY_BG": "#05060A",
@@ -57,19 +57,5 @@
     "CONTROL_BRAND_FOREGROUND": "#2E5BFF",
     "CONTROL_BRAND_BACKGROUND": "#2E5BFF",
     "CONTROL_BRAND_BACKGROUND_HOVER": "#4B73FF"
-  },
-
-  "rawColors": {
-    "PRIMARY_500": "#2E5BFF",
-    "PRIMARY_600": "#2449D6",
-    "PRIMARY_700": "#1B37A8",
-    "BRAND_NEW": "#2E5BFF",
-
-    "BLACK": "#000000",
-    "BLACK_ALT": "#050505",
-
-    "MENTION_FOREGROUND": "#BFD0FF",
-    "MENTION_BACKGROUND": "#2E5BFF22",
-    "MENTION_BAR": "#2E5BFF"
   }
 }
