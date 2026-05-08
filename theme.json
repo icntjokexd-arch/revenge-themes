@@ -1,6 +1,7 @@
 {
+  "$schema": "https://raw.githubusercontent.com/refact0r/system24/refs/heads/main/theme.schema.json",
   "name": "Abyssal Cyan Infinity",
-  "description": "AMOLED cyan Bunny/Revenge theme",
+  "description": "Cyan AMOLED Revenge theme",
   "authors": [
     {
       "name": "zRxdra"
@@ -8,69 +9,110 @@
   ],
   "spec": 2,
 
+  "rawColors": {
+    "PRIMARY_100": "#ECFEFF",
+    "PRIMARY_130": "#D9FBFF",
+    "PRIMARY_160": "#C7F7FF",
+    "PRIMARY_200": "#B5F2FF",
+    "PRIMARY_230": "#A0ECFA",
+    "PRIMARY_260": "#8BE8F7",
+    "PRIMARY_300": "#7CE3F3",
+    "PRIMARY_330": "#67D7EA",
+    "PRIMARY_345": "#58CCE0",
+    "PRIMARY_360": "#45BED2",
+    "PRIMARY_400": "#2FA7BB",
+    "PRIMARY_430": "#2493A5",
+    "PRIMARY_460": "#1C7D8D",
+    "PRIMARY_500": "#146675",
+    "PRIMARY_530": "#105865",
+    "PRIMARY_560": "#0C4954",
+    "PRIMARY_600": "#083A43",
+    "PRIMARY_630": "#062F36",
+    "PRIMARY_660": "#04252B",
+    "PRIMARY_700": "#021B20",
+    "PRIMARY_730": "#011317",
+    "PRIMARY_760": "#000D10",
+    "PRIMARY_800": "#00090B",
+    "PRIMARY_830": "#000507",
+    "PRIMARY_860": "#000304",
+    "PRIMARY_900": "#000000",
+
+    "BRAND_100": "#ECFEFF",
+    "BRAND_130": "#D9FBFF",
+    "BRAND_160": "#C7F7FF",
+    "BRAND_200": "#B5F2FF",
+    "BRAND_230": "#A0ECFA",
+    "BRAND_260": "#8BE8F7",
+    "BRAND_300": "#7CE3F3",
+    "BRAND_330": "#67D7EA",
+    "BRAND_345": "#58CCE0",
+    "BRAND_360": "#45BED2",
+    "BRAND_400": "#2FA7BB",
+    "BRAND_430": "#2493A5",
+    "BRAND_460": "#1C7D8D",
+    "BRAND_500": "#146675",
+    "BRAND_530": "#105865",
+    "BRAND_560": "#0C4954",
+    "BRAND_600": "#083A43",
+    "BRAND_630": "#062F36",
+    "BRAND_660": "#04252B",
+    "BRAND_700": "#021B20",
+    "BRAND_730": "#011317",
+    "BRAND_760": "#000D10",
+    "BRAND_800": "#00090B",
+    "BRAND_830": "#000507",
+    "BRAND_860": "#000304",
+    "BRAND_900": "#000000",
+
+    "RED_400": "#67D7EA",
+    "RED_500": "#45BED2",
+
+    "GREEN_360": "#57F287",
+
+    "BACKGROUND_100": "#000000",
+    "BACKGROUND_200": "#0A1117",
+    "BACKGROUND_300": "#0E3944",
+    "BACKGROUND_400": "#000000",
+    "BACKGROUND_500": "#000000"
+  },
+
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": "#000000",
+    "BACKGROUND_SECONDARY": "#0E3944",
+    "BACKGROUND_SECONDARY_ALT": "#0E3944",
+    "BACKGROUND_TERTIARY": "#000000",
+    "BACKGROUND_ACCENT": "#0E3944",
+    "BACKGROUND_FLOATING": "#000000",
+
+    "CHAT_BACKGROUND": "#000000",
+
+    "TEXT_NORMAL": "#7CE3F3",
+    "TEXT_MUTED": "#4AA8B7",
+    "TEXT_LINK": "#7CE3F3",
+    "TEXT_BRAND": "#7CE3F3",
+
+    "HEADER_PRIMARY": "#ECFEFF",
+    "HEADER_SECONDARY": "#7CE3F3",
+
+    "INTERACTIVE_NORMAL": "#7CE3F3",
+    "INTERACTIVE_HOVER": "#C7F7FF",
+    "INTERACTIVE_ACTIVE": "#ECFEFF",
+
+    "BACKGROUND_MODIFIER_HOVER": "#67D7EA18",
+    "BACKGROUND_MODIFIER_ACTIVE": "#67D7EA30",
+    "BACKGROUND_MODIFIER_SELECTED": "#67D7EA44",
+
+    "BACKGROUND_MENTIONED": "#57F28718",
+    "BACKGROUND_MENTIONED_HOVER": "#57F28728",
+
+    "STATUS_POSITIVE": "#57F287",
+    "STATUS_WARNING": "#67D7EA",
+    "STATUS_DANGER": "#67D7EA"
+  },
+
   "background": {
     "url": "https://files.catbox.moe/ivnvoo.png",
     "blur": 2,
     "alpha": 0.92
-  },
-
-  "semanticColors": {
-    "BACKGROUND_PRIMARY": {
-      "0": "#000000"
-    },
-
-    "BACKGROUND_SECONDARY": {
-      "0": "#0E3944"
-    },
-
-    "BACKGROUND_TERTIARY": {
-      "0": "#000000"
-    },
-
-    "BACKGROUND_FLOATING": {
-      "0": "#000000"
-    },
-
-    "TEXT_NORMAL": {
-      "0": "#7CE3F3"
-    },
-
-    "TEXT_MUTED": {
-      "0": "#4AA8B7"
-    },
-
-    "HEADER_PRIMARY": {
-      "0": "#ECFEFF"
-    },
-
-    "HEADER_SECONDARY": {
-      "0": "#7CE3F3"
-    },
-
-    "INTERACTIVE_NORMAL": {
-      "0": "#7CE3F3"
-    },
-
-    "INTERACTIVE_HOVER": {
-      "0": "#C7F7FF"
-    },
-
-    "INTERACTIVE_ACTIVE": {
-      "0": "#ECFEFF"
-    }
-  },
-
-  "rawColors": {
-    "BRAND_260": "#67D7EA",
-    "BRAND_360": "#67D7EA",
-    "BRAND_500": "#67D7EA",
-
-    "RED_400": "#67D7EA",
-    "RED_500": "#67D7EA",
-
-    "PRIMARY_300": "#7CE3F3",
-    "PRIMARY_400": "#45BED2",
-
-    "GREEN_360": "#57F287"
   }
 }
