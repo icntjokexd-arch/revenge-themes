@@ -1,6 +1,6 @@
 {
-  "name": "Midnight Cyan Complete",
-  "description": "Glorious Sunset inspired cyan-black Revenge theme",
+  "name": "Midnight Cyan Perfect",
+  "description": "Optimized Bunny/Revenge theme for Discord 328.7",
   "authors": [
     {
       "name": "zRxdra"
@@ -12,206 +12,98 @@
   "background": {
     "url": "https://files.catbox.moe/ivnvoo.png",
     "blur": 0,
-    "alpha": 0.90
-  },
-
-  "semanticColors": {
-    "BACKGROUND_BASE_PRIMARY": [
-      "#05070B"
-    ],
-
-    "BACKGROUND_BASE_SECONDARY": [
-      "#0A1017"
-    ],
-
-    "BACKGROUND_PRIMARY": [
-      "#05070B"
-    ],
-
-    "BACKGROUND_SECONDARY": [
-      "#0A1017"
-    ],
-
-    "BACKGROUND_TERTIARY": [
-      "#111821"
-    ],
-
-    "BACKGROUND_FLOATING": [
-      "#17222E"
-    ],
-
-    "BACKGROUND_SURFACE_PRIMARY": [
-      "#111821"
-    ],
-
-    "BACKGROUND_SURFACE_SECONDARY": [
-      "#17222E"
-    ],
-
-    "BACKGROUND_SURFACE_TERTIARY": [
-      "#223140"
-    ],
-
-    "BACKGROUND_SURFACE_HIGH": [
-      "#1E2D3D"
-    ],
-
-    "BACKGROUND_SURFACE_HIGHER": [
-      "#26394A"
-    ],
-
-    "BACKGROUND_SURFACE_HIGHEST": [
-      "#31495E"
-    ],
-
-    "CARD_PRIMARY_BG": [
-      "#111821"
-    ],
-
-    "CARD_SECONDARY_BG": [
-      "#17222E"
-    ],
-
-    "MODAL_BACKGROUND": [
-      "#10161D"
-    ],
-
-    "MODAL_FOOTER_BACKGROUND": [
-      "#151F28"
-    ],
-
-    "CHAT_INPUT_CONTAINER_BACKGROUND": [
-      "#0F1822CC"
-    ],
-
-    "CHANNELTEXTAREA_BACKGROUND": [
-      "#0F1822CC"
-    ],
-
-    "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#0F1822CC"
-    ],
-
-    "BACKGROUND_MODIFIER_HOVER": [
-      "#3BA7B812"
-    ],
-
-    "BACKGROUND_MODIFIER_ACTIVE": [
-      "#3BA7B818"
-    ],
-
-    "BACKGROUND_MODIFIER_SELECTED": [
-      "#3BA7B824"
-    ],
-
-    "BACKGROUND_MENTIONED": [
-      "#00FF6622"
-    ],
-
-    "BACKGROUND_MENTIONED_HOVER": [
-      "#00FF6633"
-    ],
-
-    "TEXT_NORMAL": [
-      "#4FA6B8"
-    ],
-
-    "TEXT_MUTED": [
-      "#3D7E8C"
-    ],
-
-    "TEXT_LINK": [
-      "#58C7D9"
-    ],
-
-    "TEXT_BRAND": [
-      "#58C7D9"
-    ],
-
-    "TEXT_POSITIVE": [
-      "#6DFF9A"
-    ],
-
-    "HEADER_PRIMARY": [
-      "#63C9D8"
-    ],
-
-    "HEADER_SECONDARY": [
-      "#4E98A8"
-    ],
-
-    "INTERACTIVE_NORMAL": [
-      "#58C7D9"
-    ],
-
-    "INTERACTIVE_HOVER": [
-      "#7FE7FF"
-    ],
-
-    "INTERACTIVE_ACTIVE": [
-      "#AEEFFF"
-    ],
-
-    "CONTROL_BRAND_FOREGROUND": [
-      "#58C7D9"
-    ],
-
-    "CONTROL_BRAND_BACKGROUND": [
-      "#3BA7B8"
-    ],
-
-    "CONTROL_BRAND_BACKGROUND_HOVER": [
-      "#58C7D9"
-    ],
-
-    "SCROLLBAR_THIN_THUMB": [
-      "#3BA7B8"
-    ],
-
-    "SCROLLBAR_THIN_TRACK": [
-      "#00000000"
-    ],
-
-    "STATUS_POSITIVE": [
-      "#57F287"
-    ],
-
-    "STATUS_WARNING": [
-      "#FEE75C"
-    ],
-
-    "STATUS_DANGER": [
-      "#ED4245"
-    ],
-
-    "STATUS_SPEAKING": [
-      "#58C7D9"
-    ],
-
-    "GREEN_360": [
-      "#57F287"
-    ],
-
-    "GREEN_330": [
-      "#3BD671"
-    ]
+    "alpha": 0.9
   },
 
   "rawColors": {
-    "PRIMARY_500": "#58C7D9",
-    "PRIMARY_600": "#3BA7B8",
-    "PRIMARY_700": "#2B7F8C",
+    "CYAN_100": "#AEEFFF",
+    "CYAN_300": "#58C7D9",
+    "CYAN_500": "#2B7F8C",
 
-    "BRAND_NEW": "#58C7D9",
+    "CHAT_CYAN": "#0E2A33",
 
-    "BLACK": "#05070B",
-    "BLACK_ALT": "#0A1017",
+    "BG_100": "#111821",
+    "BG_300": "#0A1017",
+    "BG_500": "#05070B",
 
-    "GREEN_360": "#57F287",
-    "GREEN_330": "#3BD671",
+    "GREEN_300": "#57F287"
+  },
 
-    "MENTION_FOREGROUND": "#6DFF9A",
-    "MENTION_BACKGROUND": "#00FF6622",
-    "MENTION_BAR": "#00FF66"
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": {
+      "ref": "CHAT_CYAN"
+    },
+
+    "BACKGROUND_SECONDARY": {
+      "ref": "BG_300"
+    },
+
+    "BACKGROUND_TERTIARY": {
+      "ref": "BG_100"
+    },
+
+    "BACKGROUND_FLOATING": {
+      "ref": "BG_100",
+      "opacity": 0.92
+    },
+
+    "CARD_PRIMARY_BG": {
+      "ref": "BG_100",
+      "opacity": 0.88
+    },
+
+    "CARD_SECONDARY_BG": {
+      "ref": "BG_300",
+      "opacity": 0.88
+    },
+
+    "TEXT_NORMAL": {
+      "ref": "CYAN_300"
+    },
+
+    "TEXT_MUTED": {
+      "ref": "CYAN_500"
+    },
+
+    "HEADER_PRIMARY": {
+      "ref": "CYAN_100"
+    },
+
+    "HEADER_SECONDARY": {
+      "ref": "CYAN_300"
+    },
+
+    "TEXT_LINK": {
+      "ref": "CYAN_300"
+    },
+
+    "INTERACTIVE_NORMAL": {
+      "ref": "CYAN_300"
+    },
+
+    "BACKGROUND_MODIFIER_HOVER": {
+      "ref": "CYAN_300",
+      "opacity": 0.08
+    },
+
+    "BACKGROUND_MODIFIER_ACTIVE": {
+      "ref": "CYAN_300",
+      "opacity": 0.12
+    },
+
+    "BACKGROUND_MODIFIER_SELECTED": {
+      "ref": "CYAN_300",
+      "opacity": 0.16
+    },
+
+    "BACKGROUND_MENTIONED": {
+      "ref": "GREEN_300",
+      "opacity": 0.16
+    },
+
+    "BACKGROUND_MENTIONED_HOVER": {
+      "ref": "GREEN_300",
+      "opacity": 0.24
+    }
   }
 }
