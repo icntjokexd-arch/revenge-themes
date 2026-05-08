@@ -1,0 +1,130 @@
+{
+  "name": "Abyssal Cyan Infinity",
+  "description": "AMOLED cyan glass Revenge theme",
+  "authors": [
+    {
+      "name": "zRxdra",
+      "id": "none"
+    }
+  ],
+  "spec": 2,
+
+  "semanticColors": {
+    "TEXT_DEFAULT": ["#FFFFFF"],
+    "TEXT_NORMAL": ["#FFFFFF"],
+    "TEXT_MUTED": ["#D7F9FF"],
+
+    "TEXT_LINK": ["#00F0FF"],
+    "TEXT_BRAND": ["#00F0FF"],
+
+    "INTERACTIVE_NORMAL": ["#66F7FF"],
+    "INTERACTIVE_ACTIVE": ["#FFFFFF"],
+    "INTERACTIVE_MUTED": ["#3BE7FF"],
+
+    "BACKGROUND_PRIMARY": ["#05070B"],
+    "BACKGROUND_SECONDARY": ["#08141B"],
+    "BACKGROUND_SECONDARY_ALT": ["#0A1D26"],
+
+    "BACKGROUND_MOBILE_PRIMARY": ["#05070B"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#08141B"],
+
+    "CHAT_BACKGROUND": ["transparent"],
+
+    "BACKGROUND_FLOATING": ["rgba(0,10,18,0.40)"],
+
+    "BACKGROUND_SURFACE_HIGH": ["rgba(0,15,24,0.38)"],
+    "BACKGROUND_SURFACE_HIGHER": ["rgba(0,18,28,0.48)"],
+
+    "CARD_BACKGROUND": ["rgba(0,12,22,0.36)"],
+
+    "CHANNELTEXTAREA_BACKGROUND": ["rgba(0,0,0,0.34)"],
+
+    "INPUT_BACKGROUND": ["rgba(0,0,0,0.30)"],
+
+    "REDESIGN_CHAT_INPUT_BACKGROUND": ["rgba(0,0,0,0.34)"],
+
+    "BACKGROUND_MESSAGE_HOVER": ["rgba(0,255,255,0.12)"],
+
+    "BACKGROUND_MODIFIER_HOVER": ["rgba(0,255,255,0.12)"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["rgba(0,255,255,0.20)"],
+
+    "MENTION_FOREGROUND": ["#66FFE0"],
+    "TEXT_MENTION": ["#66FFE0"],
+
+    "MENTION_BACKGROUND": ["rgba(0,255,170,0.34)"],
+
+    "MESSAGE_MENTIONED_BACKGROUND": [
+      "rgba(0,255,170,0.20)"
+    ],
+
+    "BACKGROUND_MENTIONED": [
+      "rgba(0,255,170,0.18)"
+    ],
+
+    "CHAT_TARGET": [
+      "rgba(0,255,170,0.24)"
+    ],
+
+    "REPLY_BAR": ["#00F0FF"],
+
+    "REPLY_BAR_SELECTED": ["#66F7FF"],
+
+    "THREAD_CHANNEL_SPINE": ["#00F0FF"],
+
+    "THREAD_MESSAGE_PREVIEW_BORDER": ["#00F0FF"],
+
+    "CHANNEL_ICON": ["#66F7FF"],
+
+    "SCROLLBAR_AUTO_THUMB": [
+      "rgba(0,240,255,0.42)"
+    ],
+
+    "BORDER_SUBTLE": [
+      "rgba(0,240,255,0.30)"
+    ],
+
+    "BORDER_STRONG": ["#66F7FF"],
+
+    "TOOLBAR_BACKGROUND": [
+      "rgba(0,12,18,0.22)"
+    ],
+
+    "EMBED_BACKGROUND": [
+      "rgba(0,25,35,0.36)"
+    ],
+
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+      "rgba(0,255,255,0.16)"
+    ],
+
+    "CONTROL_BRAND_FOREGROUND": ["#66F7FF"],
+
+    "REDESIGN_INPUT_CONTROL_SELECTED": [
+      "#00F0FF"
+    ],
+
+    "FOCUS_PRIMARY": ["#00F0FF"],
+
+    "TAB_BAR_ACTIVE_TEXT": ["#66F7FF"],
+
+    "STATUS_POSITIVE": ["#57FF98"]
+  },
+
+  "rawColors": {
+    "PRIMARY_100": "#E8FFFF",
+    "PRIMARY_200": "#CFFFFF",
+    "PRIMARY_300": "#9FFFFF",
+    "PRIMARY_400": "#66F7FF",
+    "PRIMARY_500": "#32EAFF",
+    "PRIMARY_600": "#00F0FF",
+    "PRIMARY_700": "#00D9FF",
+    "PRIMARY_800": "#00BCD4",
+    "PRIMARY_900": "#007A8A"
+  },
+
+  "background": {
+    "url": "https://files.catbox.moe/ivnvoo.png",
+    "blur": 4,
+    "alpha": 0.42
+  }
+}
