@@ -1,0 +1,169 @@
+{
+  "$schema": "https://raw.githubusercontent.com/refact0r/system24/refs/heads/main/theme.schema.json",
+
+  "name": "Abyssal Cyan Infinity",
+  "description": "Fully semantic cyan-black AMOLED Bunny/Revenge theme",
+  "authors": [
+    {
+      "name": "zRxdra"
+    }
+  ],
+
+  "spec": 2,
+
+  "background": {
+    "url": "https://files.catbox.moe/ivnvoo.png",
+    "blur": 3,
+    "alpha": 0.88
+  },
+
+  "rawColors": {
+    "PRIMARY_100": "#ECFEFF",
+    "PRIMARY_200": "#C7F7FF",
+    "PRIMARY_300": "#7CE3F3",
+    "PRIMARY_400": "#45BED2",
+    "PRIMARY_500": "#2B7F8C",
+
+    "BRAND_260": "#7CE3F3",
+    "BRAND_360": "#67D7EA",
+    "BRAND_500": "#67D7EA",
+    "BRAND_NEW": "#67D7EA",
+
+    "GREEN_360": "#57F287",
+
+    "RED_360": "#67D7EA",
+    "RED_400": "#67D7EA",
+    "RED_500": "#67D7EA",
+
+    "YELLOW_300": "#05070B",
+
+    "INFO_POSITIVE_FOREGROUND": "#57F287",
+    "INFO_WARNING_FOREGROUND": "#05070B",
+    "INFO_DANGER_FOREGROUND": "#67D7EA",
+
+    "BACKGROUND_050": "#000000",
+    "BACKGROUND_100": "#05070B",
+    "BACKGROUND_200": "#0A1117",
+    "BACKGROUND_300": "#182530",
+    "BACKGROUND_400": "#22313D"
+  },
+
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": [
+      "#000000F5"
+    ],
+
+    "BACKGROUND_SECONDARY": [
+      "#0E3944E6"
+    ],
+
+    "BACKGROUND_TERTIARY": [
+      "#05070BF2"
+    ],
+
+    "BACKGROUND_FLOATING": [
+      "#000000F4"
+    ],
+
+    "BACKGROUND_BASE_LOW": [
+      "#000000F5"
+    ],
+
+    "BACKGROUND_BASE_LOWER": [
+      "#000000FA"
+    ],
+
+    "BG_BASE_PRIMARY": [
+      "#000000F5"
+    ],
+
+    "BG_BASE_SECONDARY": [
+      "#05070BF2"
+    ],
+
+    "HEADER_BAR_BACKGROUND": [
+      "#000000F4"
+    ],
+
+    "CARD_PRIMARY_BG": [
+      "#000000CC"
+    ],
+
+    "CARD_SECONDARY_BG": [
+      "#05070BCC"
+    ],
+
+    "TEXT_NORMAL": [
+      "#7CE3F3"
+    ],
+
+    "TEXT_MUTED": [
+      "#4AA8B7"
+    ],
+
+    "TEXT_LINK": [
+      "#7CE3F3"
+    ],
+
+    "TEXT_BRAND": [
+      "#7CE3F3"
+    ],
+
+    "TEXT_DANGER": [
+      "#67D7EA"
+    ],
+
+    "HEADER_PRIMARY": [
+      "#ECFEFF"
+    ],
+
+    "HEADER_SECONDARY": [
+      "#C7F7FF"
+    ],
+
+    "INFO_DANGER_FOREGROUND": [
+      "#67D7EA"
+    ],
+
+    "CONTROL_BRAND_FOREGROUND": [
+      "#7CE3F3"
+    ],
+
+    "CONTROL_BRAND_FOREGROUND_NEW": [
+      "#7CE3F3"
+    ],
+
+    "INTERACTIVE_NORMAL": [
+      "#7CE3F3"
+    ],
+
+    "INTERACTIVE_HOVER": [
+      "#C7F7FF"
+    ],
+
+    "INTERACTIVE_ACTIVE": [
+      "#ECFEFF"
+    ],
+
+    "BACKGROUND_ACCENT": [
+      "#7CE3F31F"
+    ],
+
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#67D7EA22"
+    ],
+
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#67D7EA18"
+    ],
+
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#67D7EA30"
+    ],
+
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#67D7EA44"
+    ],
+
+    "BACKGROUND_MENTIONED": [
+      "#57F
