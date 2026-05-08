@@ -1,6 +1,6 @@
 {
-  "name": "Aurora Abyss Ultra",
-  "description": "Ultra premium AMOLED glass theme inspired by PixelCity with smooth aurora glow and refined transparency.",
+  "name": "Aurora Abyss Refined",
+  "description": "Refined PixelCity-inspired aurora glass theme with clean premium transparency and balanced blue glow.",
   "authors": [
     {
       "name": "zRxdra"
@@ -15,19 +15,19 @@
     ],
 
     "BACKGROUND_SECONDARY": [
-      "rgba(16,28,36,0.32)"
+      "rgba(8,18,24,0.24)"
     ],
 
     "BACKGROUND_SECONDARY_ALT": [
-      "rgba(16,28,36,0.46)"
+      "rgba(8,18,24,0.34)"
     ],
 
     "BACKGROUND_TERTIARY": [
-      "rgba(0,0,0,0.82)"
+      "rgba(0,0,0,0.84)"
     ],
 
     "BACKGROUND_FLOATING": [
-      "rgba(20,34,42,0.54)"
+      "rgba(10,22,30,0.42)"
     ],
 
     "BACKGROUND_MOBILE_PRIMARY": [
@@ -35,31 +35,31 @@
     ],
 
     "BACKGROUND_ACCENT": [
-      "rgba(124,206,255,0.09)"
+      "rgba(120,190,255,0.06)"
     ],
 
     "BACKGROUND_MODIFIER_HOVER": [
-      "rgba(124,206,255,0.035)"
+      "rgba(120,190,255,0.03)"
     ],
 
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "rgba(124,206,255,0.06)"
+      "rgba(120,190,255,0.05)"
     ],
 
     "BACKGROUND_MODIFIER_SELECTED": [
-      "rgba(124,206,255,0.055)"
+      "rgba(120,190,255,0.045)"
     ],
 
     "BACKGROUND_MESSAGE_HOVER": [
-      "rgba(124,206,255,0.025)"
+      "rgba(120,190,255,0.02)"
     ],
 
     "BACKGROUND_MENTIONED": [
-      "rgba(124,206,255,0.045)"
+      "rgba(120,190,255,0.03)"
     ],
 
     "BACKGROUND_MENTIONED_HOVER": [
-      "rgba(124,206,255,0.075)"
+      "rgba(120,190,255,0.05)"
     ],
 
     "CHAT_BACKGROUND": [
@@ -67,39 +67,39 @@
     ],
 
     "CHANNELTEXTAREA_BACKGROUND": [
-      "rgba(24,38,48,0.18)"
+      "rgba(18,28,36,0.16)"
     ],
 
     "INPUT_BACKGROUND": [
-      "rgba(24,38,48,0.18)"
+      "rgba(18,28,36,0.16)"
     ],
 
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "rgba(24,38,48,0.18)"
+      "rgba(18,28,36,0.16)"
     ],
 
     "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
-      "rgba(24,38,48,0.16)"
+      "rgba(18,28,36,0.16)"
     ],
 
     "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
-      "rgba(124,206,255,0.08)"
+      "rgba(120,190,255,0.06)"
     ],
 
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "rgba(24,38,48,0.16)"
+      "rgba(18,28,36,0.16)"
     ],
 
     "BUTTON_FILLED_BRAND_BACKGROUND": [
-      "rgba(24,38,48,0.16)"
+      "rgba(18,28,36,0.16)"
     ],
 
     "BUTTON_FILLED_BRAND_BACKGROUND_HOVER": [
-      "rgba(124,206,255,0.08)"
+      "rgba(120,190,255,0.07)"
     ],
 
     "BUTTON_FILLED_BRAND_BACKGROUND_ACTIVE": [
-      "rgba(124,206,255,0.12)"
+      "rgba(120,190,255,0.10)"
     ],
 
     "TEXT_DEFAULT": [
@@ -111,7 +111,7 @@
     ],
 
     "TEXT_MUTED": [
-      "#D7ECFF"
+      "#DCEEFF"
     ],
 
     "HEADER_PRIMARY": [
@@ -119,23 +119,23 @@
     ],
 
     "HEADER_SECONDARY": [
-      "#B8DEFF"
+      "#BCDFFF"
     ],
 
     "TEXT_LINK": [
-      "#86D2FF"
+      "#8FCBFF"
     ],
 
     "TEXT_BRAND": [
-      "#86D2FF"
+      "#8FCBFF"
     ],
 
     "INTERACTIVE_NORMAL": [
-      "#86D2FF"
+      "#8FCBFF"
     ],
 
     "INTERACTIVE_HOVER": [
-      "#DDF4FF"
+      "#E3F4FF"
     ],
 
     "INTERACTIVE_ACTIVE": [
@@ -143,73 +143,73 @@
     ],
 
     "CHANNEL_ICON": [
-      "#86D2FF"
+      "#8FCBFF"
     ],
 
     "MENTION_FOREGROUND": [
-      "#C3EAFF"
+      "#CFEAFF"
     ],
 
     "TEXT_MENTION": [
-      "#C3EAFF"
+      "#CFEAFF"
     ],
 
     "MENTION_BACKGROUND": [
-      "rgba(134,210,255,0.13)"
+      "rgba(120,190,255,0.08)"
     ],
 
     "MENTION_BACKGROUND_HOVER": [
-      "rgba(134,210,255,0.20)"
+      "rgba(120,190,255,0.13)"
     ],
 
     "CHAT_TARGET": [
-      "rgba(134,210,255,0.08)"
+      "rgba(120,190,255,0.045)"
     ],
 
     "CHAT_TARGET_BACKGROUND": [
-      "rgba(134,210,255,0.10)"
+      "rgba(120,190,255,0.05)"
     ],
 
     "THREAD_CHANNEL_SPINE": [
-      "#86D2FF"
+      "rgba(120,190,255,0.65)"
     ],
 
     "THREAD_DEFAULT_SPINE": [
-      "#86D2FF"
+      "rgba(120,190,255,0.65)"
     ],
 
     "BORDER_SUBTLE": [
-      "rgba(255,255,255,0.05)"
+      "rgba(255,255,255,0.04)"
     ],
 
     "BORDER_STRONG": [
-      "rgba(134,210,255,0.16)"
+      "rgba(120,190,255,0.12)"
     ],
 
     "SCROLLBAR_AUTO_THUMB": [
-      "rgba(134,210,255,0.18)"
+      "rgba(120,190,255,0.18)"
     ],
 
     "FOCUS_PRIMARY": [
-      "#86D2FF"
+      "#8FCBFF"
     ]
   },
 
   "rawColors": {
     "PRIMARY_100": "#F4FBFF",
-    "PRIMARY_200": "#D7ECFF",
-    "PRIMARY_300": "#C3EAFF",
-    "PRIMARY_400": "#A6DFFF",
-    "PRIMARY_500": "#86D2FF",
-    "PRIMARY_600": "#5FAFDE",
-    "PRIMARY_700": "#427EA4",
-    "PRIMARY_800": "#284F67",
-    "PRIMARY_900": "#132935"
+    "PRIMARY_200": "#DCEEFF",
+    "PRIMARY_300": "#CFEAFF",
+    "PRIMARY_400": "#B1DBFF",
+    "PRIMARY_500": "#8FCBFF",
+    "PRIMARY_600": "#69ADD9",
+    "PRIMARY_700": "#477A99",
+    "PRIMARY_800": "#294B61",
+    "PRIMARY_900": "#142632"
   },
 
   "background": {
     "url": "https://files.catbox.moe/kjipwe.jpg",
     "blur": 3,
-    "alpha": 0.64
+    "alpha": 0.66
   }
 }
