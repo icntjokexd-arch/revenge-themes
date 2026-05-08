@@ -1,0 +1,51 @@
+{
+  "name": "Cyan Forest Revenge AMOLED",
+  "description": "AMOLED black + cyan glass theme",
+  "authors": [{ "name": "zRxdra" }],
+  "spec": 2,
+
+  "colors": {
+
+    "primary-dark": [0, 0, 0, 1],
+    "primary-darker": [0, 0, 0, 1],
+    "primary-darkest": [0, 0, 0, 1],
+
+    "background-primary": [0, 0, 0, 1],
+    "background-secondary": [0, 0, 0, 1],
+    "background-secondary-alt": [0, 0, 0, 1],
+    "background-tertiary": [0, 0, 0, 1],
+    "background-accent": [0, 255, 255, 0.08],
+    "background-floating": [0, 0, 0, 0.95],
+
+    "channeltextarea-background": [0, 0, 0, 0.65],
+
+    "text-normal": [255, 255, 255, 1],
+    "text-muted": [170, 255, 255, 0.65],
+    "text-link": [0, 255, 170, 1],
+
+    "header-primary": [255, 255, 255, 1],
+    "header-secondary": [170, 255, 255, 0.75],
+
+    "interactive-normal": [0, 255, 255, 0.75],
+    "interactive-hover": [0, 255, 255, 1],
+    "interactive-active": [0, 255, 255, 1],
+
+    "input-background": [0, 0, 0, 0.65],
+    "input-border": [0, 255, 255, 0.25],
+    "input-placeholder-text": [0, 255, 255, 0.45],
+
+    "brand-experiment": [0, 255, 255, 1],
+    "brand-experiment-560": [0, 255, 255, 1],
+
+    "scrollbar-thin-thumb": [0, 255, 255, 0.35],
+    "scrollbar-thin-track": [0, 0, 0, 0],
+
+    "background-mentioned": [0, 0, 0, 0.35],
+    "background-mentioned-hover": [0, 0, 0, 0.55],
+    "info-positive-background": [0, 255, 170, 0.15],
+    "info-positive-foreground": [0, 255, 170, 1],
+    "mention-foreground": [0, 255, 170, 1],
+    "message-reacted-background": [0, 255, 170, 0.12]
+
+  }
+}
