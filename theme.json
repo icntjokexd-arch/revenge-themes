@@ -1,0 +1,165 @@
+{
+  "$schema": "https://raw.githubusercontent.com/refact0r/system24/refs/heads/main/theme.schema.json",
+
+  "name": "Abyssal Cyan Infinity",
+  "description": "Next-gen semantic cyan-black Bunny/Revenge theme",
+  "authors": [
+    {
+      "name": "zRxdra"
+    }
+  ],
+
+  "spec": 2,
+
+  "background": {
+    "url": "https://files.catbox.moe/ivnvoo.png",
+    "blur": 3,
+    "alpha": 0.88
+  },
+
+  "rawColors": {
+    "PRIMARY_100": "#ECFEFF",
+    "PRIMARY_200": "#C7F7FF",
+    "PRIMARY_300": "#7CE3F3",
+    "PRIMARY_400": "#45BED2",
+    "PRIMARY_500": "#2B7F8C",
+
+    "BRAND_260": "#7CE3F3",
+    "BRAND_360": "#67D7EA",
+    "BRAND_500": "#2B7F8C",
+
+    "GREEN_360": "#57F287",
+    "YELLOW_300": "#FEE75C",
+    "RED_400": "#ED4245",
+
+    "BACKGROUND_050": "#020305",
+    "BACKGROUND_100": "#0A1117",
+    "BACKGROUND_200": "#111A22",
+    "BACKGROUND_300": "#182530",
+    "BACKGROUND_400": "#22313D"
+  },
+
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": [
+      "#020305D9"
+    ],
+
+    "BACKGROUND_SECONDARY": [
+      "#0A1117D9"
+    ],
+
+    "BACKGROUND_TERTIARY": [
+      "#111A22CC"
+    ],
+
+    "BACKGROUND_FLOATING": [
+      "#182530EE"
+    ],
+
+    "CHAT_BACKGROUND": [
+      "#10303AD4"
+    ],
+
+    "HOME_BACKGROUND": [
+      "#020305E6"
+    ],
+
+    "MODAL_BACKGROUND": [
+      "#111A22EE"
+    ],
+
+    "CARD_PRIMARY_BG": [
+      "#182530B3"
+    ],
+
+    "CARD_SECONDARY_BG": [
+      "#111A2299"
+    ],
+
+    "TEXT_NORMAL": [
+      "#7CE3F3"
+    ],
+
+    "TEXT_MUTED": [
+      "#45BED2"
+    ],
+
+    "HEADER_PRIMARY": [
+      "#ECFEFF"
+    ],
+
+    "HEADER_SECONDARY": [
+      "#C7F7FF"
+    ],
+
+    "TEXT_LINK": [
+      "#7CE3F3"
+    ],
+
+    "INTERACTIVE_NORMAL": [
+      "#7CE3F3"
+    ],
+
+    "INTERACTIVE_HOVER": [
+      "#C7F7FF"
+    ],
+
+    "INTERACTIVE_ACTIVE": [
+      "#ECFEFF"
+    ],
+
+    "BACKGROUND_ACCENT": [
+      "#7CE3F31F"
+    ],
+
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#7CE3F31C"
+    ],
+
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#7CE3F330"
+    ],
+
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#7CE3F347"
+    ],
+
+    "BACKGROUND_MENTIONED": [
+      "#57F28726"
+    ],
+
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#57F28740"
+    ],
+
+    "STATUS_POSITIVE": [
+      "#57F287"
+    ],
+
+    "STATUS_WARNING": [
+      "#FEE75C"
+    ],
+
+    "STATUS_DANGER": [
+      "#ED4245"
+    ]
+  },
+
+  "fonts": {
+    "primary": "gg sans",
+    "display": "gg sans"
+  },
+
+  "effects": {
+    "glassmorphism": true,
+    "layeredDepth": true,
+    "translucentPanels": true,
+    "softGlowAccents": true,
+    "cyanInteractiveStates": true,
+    "greenMentions": true,
+    "blurredModals": true,
+    "frostedCards": true,
+    "elevatedFloatingUI": true,
+    "smoothContrastHierarchy": true
+  }
+}
