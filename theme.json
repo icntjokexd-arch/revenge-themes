@@ -1,0 +1,233 @@
+{
+  "name": "Abyssal Cyan Infinity",
+  "description": "AMOLED cyan Revenge theme with teal toolbar",
+  "authors": [
+    {
+      "name": "zRxdra",
+      "id": "none"
+    }
+  ],
+  "spec": 2,
+
+  "semanticColors": {
+    "TEXT_DEFAULT": [
+      "#E6FDFF"
+    ],
+    "TEXT_MUTED": [
+      "#8BE9F7"
+    ],
+    "TEXT_LINK": [
+      "#67E8F9"
+    ],
+    "TEXT_STRONG": [
+      "#FFFFFF"
+    ],
+    "TEXT_SUBTLE": [
+      "#7DD3FC"
+    ],
+
+    "INTERACTIVE_TEXT_DEFAULT": [
+      "#67E8F9"
+    ],
+    "INTERACTIVE_TEXT_ACTIVE": [
+      "#CFFAFE"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#22D3EE"
+    ],
+    "INTERACTIVE_ICON_DEFAULT": [
+      "#67E8F9"
+    ],
+
+    "BACKGROUND_ACCENT": [
+      "#0D9488"
+    ],
+
+    "PANEL_BG": [
+      "#0D9488"
+    ],
+
+    "BACKGROUND_SURFACE_HIGH": [
+      "#0D9488"
+    ],
+
+    "BACKGROUND_SURFACE_HIGHER": [
+      "#05070B"
+    ],
+
+    "BACKGROUND_SURFACE_HIGHEST": [
+      "#05070B"
+    ],
+
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#05070B"
+    ],
+
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#05070B"
+    ],
+
+    "SURFACE_PRIMARY": [
+      "#05070B"
+    ],
+
+    "SURFACE_SECONDARY": [
+      "#05070B"
+    ],
+
+    "BACKGROUND_SECONDARY_ALT": [
+      "#05070B"
+    ],
+
+    "BACKGROUND_BASE_LOW": [
+      "transparent"
+    ],
+
+    "BACKGROUND_BASE_LOWER": [
+      "#05070B"
+    ],
+
+    "BACKGROUND_BASE_LOWEST": [
+      "#000000"
+    ],
+
+    "CHAT_BACKGROUND": [
+      "#05070B"
+    ],
+
+    "CARD_BACKGROUND_DEFAULT": [
+      "#111827"
+    ],
+
+    "CARD_SECONDARY_BG": [
+      "#1F2937"
+    ],
+
+    "BG_SURFACE_RAISED": [
+      "#111827"
+    ],
+
+    "BACKGROUND_FLOATING": [
+      "#111827"
+    ],
+
+    "BACKGROUND_MOD_MUTED": [
+      "#1F2937"
+    ],
+
+    "BACKGROUND_MOD_STRONG": [
+      "#0F172A"
+    ],
+
+    "MESSAGE_MENTIONED_BACKGROUND": [
+      "#082F49"
+    ],
+
+    "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
+      "#082F49"
+    ],
+
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#082F49"
+    ],
+
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#082F49"
+    ],
+
+    "THREAD_CHANNEL_SPINE": [
+      "#00E5FF"
+    ],
+
+    "THREAD_MESSAGE_PREVIEW_BORDER": [
+      "#00E5FF"
+    ],
+
+    "EMBED_BACKGROUND": [
+      "#111827"
+    ],
+
+    "INPUT_BACKGROUND_DEFAULT": [
+      "#000000"
+    ],
+
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#000000"
+    ],
+
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#1F2937"
+    ],
+
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#22D3EE"
+    ],
+
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "#111827"
+    ],
+
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#67E8F9"
+    ],
+
+    "REDESIGN_INPUT_CONTROL_SELECTED": [
+      "#67E8F9"
+    ],
+
+    "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
+      "#082F49"
+    ],
+
+    "CHANNEL_ICON": [
+      "#67E8F9"
+    ],
+
+    "BORDER_MUTED": [
+      "#164E63"
+    ],
+
+    "BORDER_SUBTLE": [
+      "#22D3EE"
+    ],
+
+    "BORDER_STRONG": [
+      "#A5F3FC"
+    ]
+  },
+
+  "rawColors": {
+    "PRIMARY_100": "#ECFEFF",
+    "PRIMARY_200": "#CFFAFE",
+    "PRIMARY_300": "#A5F3FC",
+    "PRIMARY_400": "#67E8F9",
+    "PRIMARY_500": "#22D3EE",
+    "PRIMARY_600": "#06B6D4",
+    "PRIMARY_700": "#0891B2",
+    "PRIMARY_800": "#0E7490",
+    "PRIMARY_900": "#164E63",
+
+    "BRAND_100": "#000000",
+    "BRAND_200": "#000000",
+    "BRAND_300": "#000000",
+    "BRAND_400": "#000000",
+    "BRAND_500": "#000000",
+
+    "RED_400": "#000000",
+    "RED_500": "#000000",
+
+    "GREEN_360": "#57F287",
+
+    "BACKGROUND_100": "#000000",
+    "BACKGROUND_200": "#05070B",
+    "BACKGROUND_300": "#111827",
+    "BACKGROUND_400": "#1F2937",
+    "BACKGROUND_500": "#0F172A"
+  },
+
+  "background": {
+    "blur": 6,
+    "url": "https://files.catbox.moe/ivnvoo.png",
+    "alpha": 0.5
+  }
+}
