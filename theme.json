@@ -16,31 +16,100 @@
   },
 
   "semanticColors": {
-    "BACKGROUND_PRIMARY": "#000000",
-    "BACKGROUND_SECONDARY": "#0E3944",
-    "BACKGROUND_TERTIARY": "#000000",
-    "BACKGROUND_FLOATING": "#000000",
+    "BACKGROUND_PRIMARY": [
+      "#000000",
+      "#000000"
+    ],
 
-    "TEXT_NORMAL": "#7CE3F3",
-    "TEXT_MUTED": "#4AA8B7",
-    "TEXT_LINK": "#7CE3F3",
+    "BACKGROUND_SECONDARY": [
+      "#0E3944",
+      "#0E3944"
+    ],
 
-    "HEADER_PRIMARY": "#ECFEFF",
-    "HEADER_SECONDARY": "#7CE3F3",
+    "BACKGROUND_TERTIARY": [
+      "#000000",
+      "#000000"
+    ],
 
-    "INTERACTIVE_NORMAL": "#7CE3F3",
-    "INTERACTIVE_HOVER": "#C7F7FF",
-    "INTERACTIVE_ACTIVE": "#ECFEFF",
+    "BACKGROUND_FLOATING": [
+      "#000000",
+      "#000000"
+    ],
 
-    "BACKGROUND_MODIFIER_HOVER": "#67D7EA18",
-    "BACKGROUND_MODIFIER_ACTIVE": "#67D7EA30",
-    "BACKGROUND_MODIFIER_SELECTED": "#67D7EA44",
+    "TEXT_NORMAL": [
+      "#7CE3F3",
+      "#7CE3F3"
+    ],
 
-    "BACKGROUND_MENTIONED": "#57F28718",
-    "BACKGROUND_MENTIONED_HOVER": "#57F28728",
+    "TEXT_MUTED": [
+      "#4AA8B7",
+      "#4AA8B7"
+    ],
 
-    "STATUS_POSITIVE": "#57F287",
-    "STATUS_DANGER": "#67D7EA"
+    "TEXT_LINK": [
+      "#7CE3F3",
+      "#7CE3F3"
+    ],
+
+    "HEADER_PRIMARY": [
+      "#ECFEFF",
+      "#ECFEFF"
+    ],
+
+    "HEADER_SECONDARY": [
+      "#7CE3F3",
+      "#7CE3F3"
+    ],
+
+    "INTERACTIVE_NORMAL": [
+      "#7CE3F3",
+      "#7CE3F3"
+    ],
+
+    "INTERACTIVE_HOVER": [
+      "#C7F7FF",
+      "#C7F7FF"
+    ],
+
+    "INTERACTIVE_ACTIVE": [
+      "#ECFEFF",
+      "#ECFEFF"
+    ],
+
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#67D7EA18",
+      "#67D7EA18"
+    ],
+
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#67D7EA30",
+      "#67D7EA30"
+    ],
+
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#67D7EA44",
+      "#67D7EA44"
+    ],
+
+    "BACKGROUND_MENTIONED": [
+      "#57F28718",
+      "#57F28718"
+    ],
+
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#57F28728",
+      "#57F28728"
+    ],
+
+    "STATUS_POSITIVE": [
+      "#57F287",
+      "#57F287"
+    ],
+
+    "STATUS_DANGER": [
+      "#67D7EA",
+      "#67D7EA"
+    ]
   },
 
   "rawColors": {
