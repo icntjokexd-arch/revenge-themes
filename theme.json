@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/refact0r/system24/refs/heads/main/theme.schema.json",
 
   "name": "Abyssal Cyan Infinity",
-  "description": "Fully semantic cyan-black AMOLED Bunny/Revenge theme",
+  "description": "Semantic cyan-black AMOLED Bunny/Revenge theme",
   "authors": [
     {
       "name": "zRxdra"
@@ -27,7 +27,6 @@
     "BRAND_260": "#7CE3F3",
     "BRAND_360": "#67D7EA",
     "BRAND_500": "#67D7EA",
-    "BRAND_NEW": "#67D7EA",
 
     "GREEN_360": "#57F287",
 
@@ -37,15 +36,10 @@
 
     "YELLOW_300": "#05070B",
 
-    "INFO_POSITIVE_FOREGROUND": "#57F287",
-    "INFO_WARNING_FOREGROUND": "#05070B",
-    "INFO_DANGER_FOREGROUND": "#67D7EA",
-
     "BACKGROUND_050": "#000000",
     "BACKGROUND_100": "#05070B",
     "BACKGROUND_200": "#0A1117",
-    "BACKGROUND_300": "#182530",
-    "BACKGROUND_400": "#22313D"
+    "BACKGROUND_300": "#182530"
   },
 
   "semanticColors": {
@@ -62,26 +56,6 @@
     ],
 
     "BACKGROUND_FLOATING": [
-      "#000000F4"
-    ],
-
-    "BACKGROUND_BASE_LOW": [
-      "#000000F5"
-    ],
-
-    "BACKGROUND_BASE_LOWER": [
-      "#000000FA"
-    ],
-
-    "BG_BASE_PRIMARY": [
-      "#000000F5"
-    ],
-
-    "BG_BASE_SECONDARY": [
-      "#05070BF2"
-    ],
-
-    "HEADER_BAR_BACKGROUND": [
       "#000000F4"
     ],
 
@@ -121,18 +95,6 @@
       "#C7F7FF"
     ],
 
-    "INFO_DANGER_FOREGROUND": [
-      "#67D7EA"
-    ],
-
-    "CONTROL_BRAND_FOREGROUND": [
-      "#7CE3F3"
-    ],
-
-    "CONTROL_BRAND_FOREGROUND_NEW": [
-      "#7CE3F3"
-    ],
-
     "INTERACTIVE_NORMAL": [
       "#7CE3F3"
     ],
@@ -143,14 +105,6 @@
 
     "INTERACTIVE_ACTIVE": [
       "#ECFEFF"
-    ],
-
-    "BACKGROUND_ACCENT": [
-      "#7CE3F31F"
-    ],
-
-    "BACKGROUND_MODIFIER_ACCENT": [
-      "#67D7EA22"
     ],
 
     "BACKGROUND_MODIFIER_HOVER": [
@@ -166,4 +120,23 @@
     ],
 
     "BACKGROUND_MENTIONED": [
-      "#57F
+      "#57F28718"
+    ],
+
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#57F28728"
+    ],
+
+    "STATUS_POSITIVE": [
+      "#57F287"
+    ],
+
+    "STATUS_WARNING": [
+      "#05070B"
+    ],
+
+    "STATUS_DANGER": [
+      "#67D7EA"
+    ]
+  }
+}
