@@ -1,6 +1,6 @@
 {
   "name": "Abyssal Cyan Infinity",
-  "description": "AMOLED cyan Revenge theme with teal toolbar",
+  "description": "Dark teal AMOLED Revenge theme",
   "authors": [
     {
       "name": "zRxdra",
@@ -47,16 +47,28 @@
       "#0D9488"
     ],
 
+    "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+      "#0B3D3A"
+    ],
+
+    "MOBILE_EXPRESSION_PICKER_BACKGROUND_DEFAULT": [
+      "#0B3D3A"
+    ],
+
+    "BG_SURFACE_OVERLAY_TMP": [
+      "#0B3D3A"
+    ],
+
     "BACKGROUND_SURFACE_HIGH": [
-      "#0D9488"
+      "#0B3D3A"
     ],
 
     "BACKGROUND_SURFACE_HIGHER": [
-      "#05070B"
+      "#0A3532"
     ],
 
     "BACKGROUND_SURFACE_HIGHEST": [
-      "#05070B"
+      "#082B29"
     ],
 
     "BACKGROUND_MOBILE_PRIMARY": [
@@ -96,27 +108,27 @@
     ],
 
     "CARD_BACKGROUND_DEFAULT": [
-      "#111827"
+      "#0B3D3A"
     ],
 
     "CARD_SECONDARY_BG": [
-      "#1F2937"
+      "#0A3532"
     ],
 
     "BG_SURFACE_RAISED": [
-      "#111827"
+      "#0B3D3A"
     ],
 
     "BACKGROUND_FLOATING": [
-      "#111827"
+      "#0B3D3A"
     ],
 
     "BACKGROUND_MOD_MUTED": [
-      "#1F2937"
+      "#0A3532"
     ],
 
     "BACKGROUND_MOD_STRONG": [
-      "#0F172A"
+      "#082B29"
     ],
 
     "MESSAGE_MENTIONED_BACKGROUND": [
@@ -144,7 +156,7 @@
     ],
 
     "EMBED_BACKGROUND": [
-      "#111827"
+      "#0B3D3A"
     ],
 
     "INPUT_BACKGROUND_DEFAULT": [
@@ -156,7 +168,7 @@
     ],
 
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#1F2937"
+      "#0A3532"
     ],
 
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
@@ -164,7 +176,7 @@
     ],
 
     "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-      "#111827"
+      "#0B3D3A"
     ],
 
     "REDESIGN_CHANNEL_NAME_TEXT": [
@@ -188,7 +200,7 @@
     ],
 
     "BORDER_SUBTLE": [
-      "#22D3EE"
+      "#00E5FF"
     ],
 
     "BORDER_STRONG": [
@@ -220,9 +232,9 @@
 
     "BACKGROUND_100": "#000000",
     "BACKGROUND_200": "#05070B",
-    "BACKGROUND_300": "#111827",
-    "BACKGROUND_400": "#1F2937",
-    "BACKGROUND_500": "#0F172A"
+    "BACKGROUND_300": "#0B3D3A",
+    "BACKGROUND_400": "#0A3532",
+    "BACKGROUND_500": "#082B29"
   },
 
   "background": {
