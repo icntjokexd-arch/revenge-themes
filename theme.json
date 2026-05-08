@@ -1,0 +1,65 @@
+{
+  "$schema": "https://raw.githubusercontent.com/refact0r/system24/refs/heads/main/theme.schema.json",
+  "name": "Abyssal Cyan Infinity",
+  "description": "Aggressive Cyan AMOLED Revenge theme",
+  "authors": [
+    {
+      "name": "zRxdra"
+    }
+  ],
+  "spec": 2,
+
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": "#05070B",
+    "BACKGROUND_SECONDARY": "#0E3944",
+    "BACKGROUND_TERTIARY": "#05070B",
+    "BACKGROUND_FLOATING": "#05070B",
+
+    "TEXT_NORMAL": "#7CE3F3",
+    "TEXT_MUTED": "#4AA8B7",
+    "TEXT_LINK": "#7CE3F3",
+
+    "HEADER_PRIMARY": "#ECFEFF",
+    "HEADER_SECONDARY": "#7CE3F3",
+
+    "INTERACTIVE_NORMAL": "#7CE3F3",
+    "INTERACTIVE_HOVER": "#C7F7FF",
+    "INTERACTIVE_ACTIVE": "#ECFEFF",
+
+    "BACKGROUND_MODIFIER_HOVER": "#67D7EA18",
+    "BACKGROUND_MODIFIER_ACTIVE": "#67D7EA30",
+    "BACKGROUND_MODIFIER_SELECTED": "#67D7EA44"
+  },
+
+  "rawColors": {
+    "PRIMARY_100": "#ECFEFF",
+    "PRIMARY_130": "#D9FBFF",
+    "PRIMARY_160": "#C7F7FF",
+    "PRIMARY_200": "#B5F2FF",
+    "PRIMARY_230": "#A0ECFA",
+    "PRIMARY_260": "#8BE8F7",
+    "PRIMARY_300": "#7CE3F3",
+    "PRIMARY_330": "#67D7EA",
+    "PRIMARY_345": "#58CCE0",
+    "PRIMARY_360": "#45BED2",
+    "PRIMARY_400": "#2FA7BB",
+    "PRIMARY_430": "#2493A5",
+    "PRIMARY_460": "#1C7D8D",
+    "PRIMARY_500": "#146675",
+
+    "BRAND_260": "#8BE8F7",
+    "BRAND_300": "#7CE3F3",
+    "BRAND_360": "#67D7EA",
+    "BRAND_500": "#45BED2",
+
+    "RED_400": "#67D7EA",
+    "RED_500": "#45BED2",
+
+    "GREEN_360": "#57F287",
+
+    "BACKGROUND_100": "#05070B",
+    "BACKGROUND_200": "#0A1117",
+    "BACKGROUND_300": "#0E3944",
+    "BACKGROUND_400": "#05070B"
+  }
+}
