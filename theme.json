@@ -1,0 +1,231 @@
+{
+  "name": "Aurora Aetheris",
+  "description": "Aetheris-inspired premium AMOLED glass preset with smooth transparent chats and cyan aurora highlights.",
+  "authors": [
+    {
+      "name": "zRxdra"
+    }
+  ],
+
+  "spec": 2,
+
+  "semanticColors": {
+    "BG_BASE_PRIMARY": [
+      "rgba(12,20,28,0.32)"
+    ],
+
+    "BG_BASE_SECONDARY": [
+      "rgba(12,20,28,0.46)"
+    ],
+
+    "BACKGROUND_PRIMARY": [
+      "#000000"
+    ],
+
+    "BACKGROUND_SECONDARY": [
+      "rgba(12,20,28,0.30)"
+    ],
+
+    "BACKGROUND_SECONDARY_ALT": [
+      "rgba(12,20,28,0.42)"
+    ],
+
+    "BACKGROUND_TERTIARY": [
+      "rgba(0,0,0,0.82)"
+    ],
+
+    "BACKGROUND_FLOATING": [
+      "rgba(16,26,36,0.52)"
+    ],
+
+    "BACKGROUND_SURFACE_HIGH": [
+      "rgba(16,26,36,0.34)"
+    ],
+
+    "BACKGROUND_SURFACE_HIGHER": [
+      "rgba(16,26,36,0.42)"
+    ],
+
+    "BACKGROUND_SURFACE_HIGHEST": [
+      "rgba(16,26,36,0.52)"
+    ],
+
+    "BACKGROUND_ACCENT": [
+      "rgba(120,195,255,0.05)"
+    ],
+
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(120,195,255,0.03)"
+    ],
+
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(120,195,255,0.05)"
+    ],
+
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(120,195,255,0.045)"
+    ],
+
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(120,195,255,0.02)"
+    ],
+
+    "BACKGROUND_MENTIONED": [
+      "rgba(120,195,255,0.03)"
+    ],
+
+    "BACKGROUND_MENTIONED_HOVER": [
+      "rgba(120,195,255,0.05)"
+    ],
+
+    "CHAT_BACKGROUND": [
+      "rgba(0,0,0,0)"
+    ],
+
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "rgba(16,26,36,0.34)"
+    ],
+
+    "INPUT_BACKGROUND": [
+      "rgba(16,26,36,0.34)"
+    ],
+
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "rgba(16,26,36,0.34)"
+    ],
+
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+      "rgba(16,26,36,0.34)"
+    ],
+
+    "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+      "rgba(120,195,255,0.08)"
+    ],
+
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "rgba(16,26,36,0.34)"
+    ],
+
+    "BUTTON_FILLED_BRAND_BACKGROUND": [
+      "rgba(16,26,36,0.34)"
+    ],
+
+    "BUTTON_FILLED_BRAND_BACKGROUND_HOVER": [
+      "rgba(120,195,255,0.08)"
+    ],
+
+    "BUTTON_FILLED_BRAND_BACKGROUND_ACTIVE": [
+      "rgba(120,195,255,0.12)"
+    ],
+
+    "TEXT_DEFAULT": [
+      "#FFFFFF"
+    ],
+
+    "TEXT_NORMAL": [
+      "#FFFFFF"
+    ],
+
+    "TEXT_MUTED": [
+      "#DCEEFF"
+    ],
+
+    "HEADER_PRIMARY": [
+      "#FFFFFF"
+    ],
+
+    "HEADER_SECONDARY": [
+      "#C3E5FF"
+    ],
+
+    "TEXT_LINK": [
+      "#82CFFF"
+    ],
+
+    "TEXT_BRAND": [
+      "#82CFFF"
+    ],
+
+    "INTERACTIVE_NORMAL": [
+      "#82CFFF"
+    ],
+
+    "INTERACTIVE_HOVER": [
+      "#E8F6FF"
+    ],
+
+    "INTERACTIVE_ACTIVE": [
+      "#FFFFFF"
+    ],
+
+    "CHANNEL_ICON": [
+      "#82CFFF"
+    ],
+
+    "MENTION_FOREGROUND": [
+      "#D4EEFF"
+    ],
+
+    "TEXT_MENTION": [
+      "#D4EEFF"
+    ],
+
+    "MENTION_BACKGROUND": [
+      "rgba(130,207,255,0.10)"
+    ],
+
+    "MENTION_BACKGROUND_HOVER": [
+      "rgba(130,207,255,0.15)"
+    ],
+
+    "CHAT_TARGET": [
+      "rgba(120,195,255,0.04)"
+    ],
+
+    "CHAT_TARGET_BACKGROUND": [
+      "rgba(16,26,36,0.40)"
+    ],
+
+    "THREAD_CHANNEL_SPINE": [
+      "#82CFFF"
+    ],
+
+    "THREAD_DEFAULT_SPINE": [
+      "#82CFFF"
+    ],
+
+    "BORDER_SUBTLE": [
+      "rgba(255,255,255,0.04)"
+    ],
+
+    "BORDER_STRONG": [
+      "rgba(130,207,255,0.12)"
+    ],
+
+    "SCROLLBAR_AUTO_THUMB": [
+      "rgba(130,207,255,0.18)"
+    ],
+
+    "FOCUS_PRIMARY": [
+      "#82CFFF"
+    ]
+  },
+
+  "rawColors": {
+    "PRIMARY_100": "#F5FBFF",
+    "PRIMARY_200": "#DCEEFF",
+    "PRIMARY_300": "#D4EEFF",
+    "PRIMARY_400": "#B6DFFF",
+    "PRIMARY_500": "#82CFFF",
+    "PRIMARY_600": "#5DAEDB",
+    "PRIMARY_700": "#417B99",
+    "PRIMARY_800": "#294C61",
+    "PRIMARY_900": "#132631"
+  },
+
+  "background": {
+    "url": "https://files.catbox.moe/kjipwe.jpg",
+    "blur": 3,
+    "alpha": 0.66
+  }
+}
