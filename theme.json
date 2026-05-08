@@ -1,9 +1,6 @@
 {
-  "$schema": "https://raw.githubusercontent.com/refact0r/system24/refs/heads/main/theme.schema.json",
-
   "name": "Abyssal Cyan Infinity",
-  "description": "Semantic cyan-black AMOLED Bunny/Revenge theme",
-
+  "description": "Cyan AMOLED theme",
   "authors": [
     {
       "name": "zRxdra"
@@ -12,39 +9,32 @@
 
   "spec": 2,
 
-  "background": {
-    "url": "https://files.catbox.moe/ivnvoo.png",
-    "blur": 3,
-    "alpha": 0.88
+  "semanticColors": {
+    "backgroundPrimary": "#000000",
+    "backgroundSecondary": "#0E3944",
+    "backgroundTertiary": "#05070B",
+    "backgroundFloating": "#000000",
+
+    "textNormal": "#7CE3F3",
+    "textMuted": "#4AA8B7",
+
+    "headerPrimary": "#ECFEFF",
+    "headerSecondary": "#7CE3F3",
+
+    "interactiveNormal": "#7CE3F3",
+    "interactiveHover": "#C7F7FF",
+    "interactiveActive": "#ECFEFF",
+
+    "backgroundModifierHover": "#67D7EA18",
+    "backgroundModifierActive": "#67D7EA30",
+    "backgroundModifierSelected": "#67D7EA44",
+
+    "backgroundMentioned": "#57F28718",
+    "backgroundMentionedHover": "#57F28728"
   },
 
-  "semanticColors": {
-    "dark": {
-      "backgroundPrimary": "#000000",
-      "backgroundSecondary": "#0E3944",
-      "backgroundTertiary": "#05070B",
-      "backgroundFloating": "#000000",
-
-      "textNormal": "#7CE3F3",
-      "textMuted": "#4AA8B7",
-      "textLink": "#7CE3F3",
-
-      "headerPrimary": "#ECFEFF",
-      "headerSecondary": "#7CE3F3",
-
-      "interactiveNormal": "#7CE3F3",
-      "interactiveHover": "#C7F7FF",
-      "interactiveActive": "#ECFEFF",
-
-      "backgroundModifierHover": "#67D7EA18",
-      "backgroundModifierActive": "#67D7EA30",
-      "backgroundModifierSelected": "#67D7EA44",
-
-      "backgroundMentioned": "#57F28718",
-      "backgroundMentionedHover": "#57F28728",
-
-      "statusPositive": "#57F287",
-      "statusDanger": "#67D7EA"
-    }
+  "background": {
+    "url": "https://files.catbox.moe/ivnvoo.png",
+    "blur": 2
   }
 }
