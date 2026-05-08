@@ -1,0 +1,76 @@
+{
+  "name": "Abyssal Cyan Infinity",
+  "description": "AMOLED cyan Bunny/Revenge theme",
+  "authors": [
+    {
+      "name": "zRxdra"
+    }
+  ],
+  "spec": 2,
+
+  "background": {
+    "url": "https://files.catbox.moe/ivnvoo.png",
+    "blur": 2,
+    "alpha": 0.92
+  },
+
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": {
+      "0": "#000000"
+    },
+
+    "BACKGROUND_SECONDARY": {
+      "0": "#0E3944"
+    },
+
+    "BACKGROUND_TERTIARY": {
+      "0": "#000000"
+    },
+
+    "BACKGROUND_FLOATING": {
+      "0": "#000000"
+    },
+
+    "TEXT_NORMAL": {
+      "0": "#7CE3F3"
+    },
+
+    "TEXT_MUTED": {
+      "0": "#4AA8B7"
+    },
+
+    "HEADER_PRIMARY": {
+      "0": "#ECFEFF"
+    },
+
+    "HEADER_SECONDARY": {
+      "0": "#7CE3F3"
+    },
+
+    "INTERACTIVE_NORMAL": {
+      "0": "#7CE3F3"
+    },
+
+    "INTERACTIVE_HOVER": {
+      "0": "#C7F7FF"
+    },
+
+    "INTERACTIVE_ACTIVE": {
+      "0": "#ECFEFF"
+    }
+  },
+
+  "rawColors": {
+    "BRAND_260": "#67D7EA",
+    "BRAND_360": "#67D7EA",
+    "BRAND_500": "#67D7EA",
+
+    "RED_400": "#67D7EA",
+    "RED_500": "#67D7EA",
+
+    "PRIMARY_300": "#7CE3F3",
+    "PRIMARY_400": "#45BED2",
+
+    "GREEN_360": "#57F287"
+  }
+}
