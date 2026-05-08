@@ -9,73 +9,6 @@
   ],
   "spec": 2,
 
-  "rawColors": {
-    "PRIMARY_100": "#ECFEFF",
-    "PRIMARY_130": "#D9FBFF",
-    "PRIMARY_160": "#C7F7FF",
-    "PRIMARY_200": "#B5F2FF",
-    "PRIMARY_230": "#A0ECFA",
-    "PRIMARY_260": "#8BE8F7",
-    "PRIMARY_300": "#7CE3F3",
-    "PRIMARY_330": "#67D7EA",
-    "PRIMARY_345": "#58CCE0",
-    "PRIMARY_360": "#45BED2",
-    "PRIMARY_400": "#2FA7BB",
-    "PRIMARY_430": "#2493A5",
-    "PRIMARY_460": "#1C7D8D",
-    "PRIMARY_500": "#146675",
-    "PRIMARY_530": "#105865",
-    "PRIMARY_560": "#0C4954",
-    "PRIMARY_600": "#083A43",
-    "PRIMARY_630": "#062F36",
-    "PRIMARY_660": "#04252B",
-    "PRIMARY_700": "#021B20",
-    "PRIMARY_730": "#011317",
-    "PRIMARY_760": "#000D10",
-    "PRIMARY_800": "#00090B",
-    "PRIMARY_830": "#000507",
-    "PRIMARY_860": "#000304",
-    "PRIMARY_900": "#000000",
-
-    "BRAND_100": "#ECFEFF",
-    "BRAND_130": "#D9FBFF",
-    "BRAND_160": "#C7F7FF",
-    "BRAND_200": "#B5F2FF",
-    "BRAND_230": "#A0ECFA",
-    "BRAND_260": "#8BE8F7",
-    "BRAND_300": "#7CE3F3",
-    "BRAND_330": "#67D7EA",
-    "BRAND_345": "#58CCE0",
-    "BRAND_360": "#45BED2",
-    "BRAND_400": "#2FA7BB",
-    "BRAND_430": "#2493A5",
-    "BRAND_460": "#1C7D8D",
-    "BRAND_500": "#146675",
-    "BRAND_530": "#105865",
-    "BRAND_560": "#0C4954",
-    "BRAND_600": "#083A43",
-    "BRAND_630": "#062F36",
-    "BRAND_660": "#04252B",
-    "BRAND_700": "#021B20",
-    "BRAND_730": "#011317",
-    "BRAND_760": "#000D10",
-    "BRAND_800": "#00090B",
-    "BRAND_830": "#000507",
-    "BRAND_860": "#000304",
-    "BRAND_900": "#000000",
-
-    "RED_400": "#67D7EA",
-    "RED_500": "#45BED2",
-
-    "GREEN_360": "#57F287",
-
-    "BACKGROUND_100": "#000000",
-    "BACKGROUND_200": "#0A1117",
-    "BACKGROUND_300": "#0E3944",
-    "BACKGROUND_400": "#000000",
-    "BACKGROUND_500": "#000000"
-  },
-
   "semanticColors": {
     "BACKGROUND_PRIMARY": "#000000",
     "BACKGROUND_SECONDARY": "#0E3944",
@@ -108,6 +41,28 @@
     "STATUS_POSITIVE": "#57F287",
     "STATUS_WARNING": "#67D7EA",
     "STATUS_DANGER": "#67D7EA"
+  },
+
+  "rawColors": {
+    "PRIMARY_100": "#ECFEFF",
+    "PRIMARY_200": "#C7F7FF",
+    "PRIMARY_300": "#7CE3F3",
+    "PRIMARY_400": "#45BED2",
+    "PRIMARY_500": "#146675",
+
+    "BRAND_260": "#8BE8F7",
+    "BRAND_300": "#7CE3F3",
+    "BRAND_360": "#45BED2",
+    "BRAND_500": "#146675",
+
+    "RED_400": "#67D7EA",
+    "RED_500": "#45BED2",
+
+    "GREEN_360": "#57F287",
+
+    "BACKGROUND_100": "#000000",
+    "BACKGROUND_200": "#0A1117",
+    "BACKGROUND_300": "#0E3944"
   },
 
   "background": {
