@@ -10,10 +10,10 @@
   "spec": 2,
 
   "semanticColors": {
-    "BACKGROUND_PRIMARY": "#000000",
+    "BACKGROUND_PRIMARY": "#0A1117",
     "BACKGROUND_SECONDARY": "#0E3944",
-    "BACKGROUND_TERTIARY": "#000000",
-    "BACKGROUND_FLOATING": "#000000",
+    "BACKGROUND_TERTIARY": "#05070B",
+    "BACKGROUND_FLOATING": "#05070B",
 
     "TEXT_NORMAL": "#7CE3F3",
     "TEXT_MUTED": "#4AA8B7",
@@ -44,14 +44,8 @@
 
     "GREEN_360": "#57F287",
 
-    "BACKGROUND_100": "#000000",
+    "BACKGROUND_100": "#05070B",
     "BACKGROUND_200": "#0A1117",
     "BACKGROUND_300": "#0E3944"
-  },
-
-  "background": {
-    "url": "https://files.catbox.moe/ivnvoo.png",
-    "blur": 2,
-    "alpha": 0.92
   }
 }
