@@ -1,0 +1,86 @@
+{
+  "name": "Asteroid Sun Solar System",
+  "description": "AMOLED black cosmic theme with solar glow UI",
+  "authors": [{ "name": "zRxdra" }],
+  "spec": 2,
+
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#000000"],
+    "BACKGROUND_SECONDARY": ["#000000"],
+    "BACKGROUND_TERTIARY": ["#000000"],
+    "BG_BASE_PRIMARY": ["#000000"],
+    "BG_BASE_SECONDARY": ["#000000"],
+
+    "BACKGROUND_FLOATING": ["rgba(0,0,0,0.85)"],
+    "BACKGROUND_SURFACE_HIGH": ["rgba(10,10,10,0.55)"],
+    "BACKGROUND_SURFACE_HIGHER": ["rgba(10,10,10,0.7)"],
+    "BACKGROUND_SURFACE_HIGHEST": ["rgba(10,10,10,0.85)"],
+
+    "CHAT_BACKGROUND": ["rgba(0,0,0,0)"],
+    "CHANNELTEXTAREA_BACKGROUND": ["rgba(15,15,15,0.75)"],
+    "INPUT_BACKGROUND": ["rgba(15,15,15,0.75)"],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": ["rgba(15,15,15,0.75)"],
+
+    "BACKGROUND_MODIFIER_HOVER": ["rgba(255,255,255,0.05)"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["rgba(255,255,255,0.08)"],
+    "BACKGROUND_MODIFIER_SELECTED": ["rgba(255,255,255,0.10)"],
+    "BACKGROUND_MESSAGE_HOVER": ["rgba(255,255,255,0.03)"],
+
+    "TEXT_DEFAULT": ["#FFFFFF"],
+    "TEXT_NORMAL": ["#FFFFFF"],
+    "TEXT_MUTED": ["#9CA3AF"],
+    "HEADER_PRIMARY": ["#FFFFFF"],
+    "HEADER_SECONDARY": ["#C9D1D9"],
+
+    "TEXT_LINK": ["#5ED3FF"],
+    "TEXT_BRAND": ["#5ED3FF"],
+    "CHANNEL_ICON": ["#5ED3FF"],
+
+    "INTERACTIVE_NORMAL": ["#FFD93D"],
+    "INTERACTIVE_HOVER": ["#FFE66D"],
+    "INTERACTIVE_ACTIVE": ["#FFFFFF"],
+
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": ["#FFD93D"],
+    "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": ["#FFE66D"],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["rgba(255,217,61,0.18)"],
+
+    "BUTTON_FILLED_BRAND_BACKGROUND": ["#FFD93D"],
+    "BUTTON_FILLED_BRAND_BACKGROUND_HOVER": ["#FFE66D"],
+    "BUTTON_FILLED_BRAND_BACKGROUND_ACTIVE": ["#FFF3A3"],
+
+    "MENTION_FOREGROUND": ["#FFFFFF"],
+    "TEXT_MENTION": ["#FFFFFF"],
+    "MENTION_BACKGROUND": ["rgba(255,217,61,0.18)"],
+    "MENTION_BACKGROUND_HOVER": ["rgba(255,217,61,0.28)"],
+
+    "CHAT_TARGET": ["rgba(94,211,255,0.15)"],
+    "CHAT_TARGET_BACKGROUND": ["rgba(0,0,0,0.7)"],
+
+    "THREAD_CHANNEL_SPINE": ["#FFD93D"],
+    "THREAD_DEFAULT_SPINE": ["#FFD93D"],
+
+    "BORDER_SUBTLE": ["rgba(255,255,255,0.05)"],
+    "BORDER_STRONG": ["rgba(255,217,61,0.25)"],
+    "SCROLLBAR_AUTO_THUMB": ["rgba(255,255,255,0.18)"],
+
+    "FOCUS_PRIMARY": ["#FFD93D"]
+  },
+
+  "rawColors": {
+    "PRIMARY_100": "#FFF8CC",
+    "PRIMARY_200": "#FFF3A3",
+    "PRIMARY_300": "#FFE66D",
+    "PRIMARY_400": "#FFD93D",
+    "PRIMARY_500": "#FFC300",
+    "PRIMARY_600": "#E6AC00",
+    "PRIMARY_700": "#B38600",
+    "PRIMARY_800": "#806000",
+    "PRIMARY_900": "#4D3900"
+  },
+
+  "background": {
+    "url": "https://raw.githubusercontent.com/icntjokexd-arch/revenge-themes/main/space-bg.jpg",
+    "blur": 0,
+    "alpha": 0.65
+  }
+}
