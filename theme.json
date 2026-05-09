@@ -1,0 +1,86 @@
+{
+  "name": "Aurora Aetheris",
+  "description": "Premium cyan glass PixelCity preset",
+  "authors": [{ "name": "zRxdra" }],
+  "spec": 2,
+
+  "semanticColors": {
+
+    "BG_BASE_PRIMARY": ["rgba(10,16,24,0.18)"],
+    "BG_BASE_SECONDARY": ["rgba(10,16,24,0.24)"],
+    "BACKGROUND_PRIMARY": ["#000000"],
+    "BACKGROUND_SECONDARY": ["rgba(10,16,24,0.16)"],
+    "BACKGROUND_SECONDARY_ALT": ["rgba(10,16,24,0.22)"],
+    "BACKGROUND_TERTIARY": ["rgba(0,0,0,0.82)"],
+    "BACKGROUND_FLOATING": ["rgba(14,20,30,0.28)"],
+
+    "CHANNEL_LIST_BG": ["rgba(14,20,30,0.65)"],
+    "SIDEBAR_DEFAULT": ["rgba(14,20,30,0.75)"],
+    "SIDEBAR_OVERLAY": ["rgba(14,20,30,0.85)"],
+    "HEADER_BAR_BACKGROUND": ["rgba(14,20,30,0.75)"],
+    "HEADER_BAR_BORDER": ["rgba(159,228,255,0.25)"],
+
+    "CHANNEL_DEFAULT": ["#BFD8FF"],
+    "CHANNEL_HOVER": ["#9FE4FF"],
+    "CHANNEL_SELECTED": ["#FFFFFF"],
+    "CHANNEL_SELECTED_BACKGROUND": ["rgba(159,228,255,0.10)"],
+    "CHANNEL_UNREAD_INDICATOR": ["#9FE4FF"],
+    "CHANNELCATEGORY_DEFAULT": ["#FFD6F6"],
+    "CHANNELCATEGORY_HOVER": ["#FFFFFF"],
+
+    "BACKGROUND_MODIFIER_HOVER": ["rgba(159,228,255,0.06)"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["rgba(159,228,255,0.14)"],
+    "BACKGROUND_MODIFIER_SELECTED": ["rgba(159,228,255,0.10)"],
+
+    "BACKGROUND_MENTIONED": ["rgba(140,210,255,0.05)"],
+    "BACKGROUND_MENTIONED_HOVER": ["rgba(140,210,255,0.09)"],
+    "MENTION_BACKGROUND": ["rgba(140,210,255,0.12)"],
+    "MENTION_BACKGROUND_HOVER": ["rgba(140,210,255,0.18)"],
+    "MENTION_FOREGROUND": ["#9FE4FF"],
+    "TEXT_MENTION": ["#9FE4FF"],
+
+    "CHANNELTEXTAREA_BACKGROUND": ["rgba(14,20,30,0.18)"],
+    "INPUT_BACKGROUND": ["rgba(14,20,30,0.18)"],
+    "CHAT_BACKGROUND": ["rgba(0,0,0,0)"],
+
+    "TEXT_DEFAULT": ["#FFFFFF"],
+    "TEXT_MUTED": ["#BFD8FF"],
+    "HEADER_PRIMARY": ["#FFFFFF"],
+    "HEADER_SECONDARY": ["#FFD6F6"],
+    "TEXT_LINK": ["#8BE9FD"],
+    "TEXT_BRAND": ["#9FE4FF"],
+
+    "BUTTON_FILLED_BRAND_BACKGROUND": ["#9FE4FF"],
+    "BUTTON_FILLED_BRAND_BACKGROUND_HOVER": ["#B8EEFF"],
+    "BUTTON_FILLED_BRAND_BACKGROUND_ACTIVE": ["#D7F7FF"],
+
+    "SCROLLBAR_AUTO_THUMB": ["rgba(159,228,255,0.18)"],
+    "SCROLLBAR_AUTO_TRACK": ["rgba(0,0,0,0.15)"],
+    "SCROLLBAR_THIN_TRACK": ["rgba(0,0,0,0.15)"],
+
+    "THREAD_CHANNEL_SPINE": ["#9FE4FF"],
+    "THREAD_DEFAULT_SPINE": ["#9FE4FF"]
+  },
+
+  "rawColors": {
+    "PRIMARY_100": "#F4FCFF",
+    "PRIMARY_200": "#DCEEFF",
+    "PRIMARY_300": "#CFEFFF",
+    "PRIMARY_400": "#B6E7FF",
+    "PRIMARY_500": "#9FE4FF",
+    "PRIMARY_600": "#74B8D4",
+    "PRIMARY_700": "#4B7D94",
+    "PRIMARY_800": "#294C5E",
+    "PRIMARY_900": "#132631",
+
+    "mentionLine": "rgba(159,228,255,0.9)",
+    "channelGlow": "rgba(159,228,255,0.45)",
+    "selectedChannel": "rgba(159,228,255,0.12)"
+  },
+
+  "background": {
+    "url": "https://files.catbox.moe/kjipwe.jpg",
+    "blur": 0,
+    "alpha": 0.65
+  }
+}
