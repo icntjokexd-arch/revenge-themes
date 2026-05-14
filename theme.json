@@ -1,0 +1,55 @@
+{
+    "name": "Cyan Glitch Noir",
+    "description": "Minimalist cyan glitch aesthetic with glass-morphism.",
+    "authors": [
+        {
+            "name": "Rudransh",
+            "id": "183251375193456641"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": ["#00FFFF"],
+        "HEADER_SECONDARY": ["#00CCCC"],
+        "TEXT_NORMAL": ["#00FFFF"],
+        "TEXT_MUTED": ["#008B8B"],
+        "TEXT_DANGER": ["#FF0055"],
+        "TEXT_LINK": ["#00FFFF"],
+        "INTERACTIVE_NORMAL": ["#00CCCC"],
+        "INTERACTIVE_HOVER": ["#FFFFFF"],
+        "INTERACTIVE_ACTIVE": ["#00FFFF"],
+        "INTERACTIVE_MUTED": ["#004444"],
+        "BACKGROUND_PRIMARY": ["#00000000"],
+        "BACKGROUND_SECONDARY": ["#000000AA"],
+        "BACKGROUND_SECONDARY_ALT": ["#000000CC"],
+        "BACKGROUND_TERTIARY": ["#00000000"],
+        "BACKGROUND_ACCENT": ["#00FFFF"],
+        "BACKGROUND_FLOATING": ["#000000DD"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
+        "BACKGROUND_MOBILE_SECONDARY": ["#000000"],
+        "BACKGROUND_MESSAGE_HOVER": ["#00FFFF11"],
+        "BACKGROUND_MODIFIER_SELECTED": ["#00FFFF33"],
+        "SCROLLBAR_THIN_THUMB": ["#00FFFF"],
+        "CHANNELTEXTAREA_BACKGROUND": ["#000000CC"],
+        "CHAT_BACKGROUND": ["#00000000"]
+    },
+    "rawColors": {
+        "PRIMARY": "#000000",
+        "PRIMARY_100": "#00FFFF",
+        "BRAND_500": "#00FFFF",
+        "WHITE_500": "#00FFFF"
+    },
+    "background": {
+        "blur": 0,
+        "url": "https://files.catbox.moe/nn4jjs.jpg",
+        "alpha": 1.0
+    },
+    "plus": {
+        "version": 0,
+        "mentionLineColor": "#00FFFF",
+        "icons": {
+            "StatusOnline": "#00FFFF",
+            "StatusDND": "#FF0055"
+        }
+    },
+    "spec": 2
+}
